@@ -7,6 +7,7 @@
 <!-- Bio -->
 <p align="center">
   🌱 Currently diving into Cyber Security and mastering programming languages like C++ and Python. <br/>
+  ⚡ Fun fact: You must invest in your career more than anything else!
 </p>
 
 <!-- Connect with me -->
@@ -60,3 +61,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr23460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr23460&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<!-- Status -->
+<h3 align="left">My Status:</h3>
+<ul align="left">
+  <li>🚀 Currently on a journey to enhance my skills in Cyber Security and programming.</li>
+  <li>💡 Always eager to learn and explore new technologies and concepts.</li>
+  <li>🔭 Working on various projects to apply my knowledge and contribute to the community.</li>
+  <li>🌟 Open to collaborations and opportunities in the field of Cyber Security and Software Development.</li>
+</ul>
