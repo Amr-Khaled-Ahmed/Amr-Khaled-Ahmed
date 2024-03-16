@@ -7,7 +7,6 @@
 <!-- Bio -->
 <p align="center">
   🌱 Currently diving into Cyber Security and mastering programming languages like C++ and Python. <br/>
-  ⚡ Fun fact: You must invest in your career more than anything else!
 </p>
 
 <!-- Connect with me -->
