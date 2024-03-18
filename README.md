@@ -58,9 +58,9 @@
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amr23460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amr-Khaled-Ahmed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amr23460&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <!-- Status -->
 <h3 align="left">My Status:</h3>
