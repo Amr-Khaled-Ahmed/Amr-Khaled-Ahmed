@@ -9,11 +9,11 @@
 
 
 
-<div> <a href="www.linkedin.com/in/amr-el-dahshan-843a11306" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/amr-el-dahshan-843a11306" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Amr Khaled" height="30" width="40" /></a><a href="https://fb.com/Amr Eldashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Amr Eldashan" height="30" width="40" /></a><a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Amr_El-Dahshan" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Amr Khaled" height="30" width="40" /></a><a href="https://fb.com/Amr Eldashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Amr Eldashan" height="30" width="40" /></a><a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Amr_El-Dahshan" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
