@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+profile.;I'm+Amr+Khaled+Ahmed.&center=true&width=500&height=50&color=377dff&multiline=true&center=true&vCenter=true">
 </a>
-</p><br><br>
+</p><br><br><br><br>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Amr-Khaled-Ahmed" /> 
