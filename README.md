@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Amr Khaled Ahmed</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+profile.;I'm+Amr+Khaled.;&center=true&width=500&height=50&color=FFFFFF)](https://github.com/DenverCoder1/readme-typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Amr-Khaled-Ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=" alt="Amr-Khaled-Ahmed" /></a> </p>
