@@ -2,8 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+profile.;I'm+Amr+Khaled+Ahmed.&center=true&width=500&height=50&color=377dff&multiline=true&center=true&vCenter=true">
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;Welcome+to+my+profile.;I'm+Amr+Khaled+Ahmed.;&center=true&width=500&height=50"></a>
 </p><br><br><br><br>
 
 <p align="left"> 
