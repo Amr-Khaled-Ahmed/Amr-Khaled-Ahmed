@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working on **some different projects**
-🌱 Currently learning **different programming, languages ​​and cybersecurity**
+- 🌱 Currently learning **different programming, languages ​​and cybersecurity**
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank">
