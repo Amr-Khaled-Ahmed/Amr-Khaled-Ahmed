@@ -26,9 +26,6 @@
   <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
-  <a href="https://fb.com/Amr Eldashan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
   <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
