@@ -46,7 +46,6 @@ I'm skilled in the following technologies and tools:
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Git_icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ### 📊 GitHub Stats
@@ -56,6 +55,10 @@ I'm skilled in the following technologies and tools:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark" alt="Top Languages" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark" alt="Streak Stats" />
 </p>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 <h3 align="center">Statistics</h3>
 
