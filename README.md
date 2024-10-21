@@ -14,8 +14,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **some different projects**
-- 🌱 Currently learning **different programming, languages ​​and cybersecurity**
+- 🔭 I’m currently working on **different projects related to red teaming and malware analysis**
+- 🌱 I’m actively learning **cybersecurity, penetration testing, and malware analysis techniques**
+- 💻 Languages I’m focusing on: **C, Python, C++**
 
 <div align="left"> 
   <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank">
