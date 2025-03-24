@@ -19,10 +19,11 @@
 ## 🔥 Cyber Security Focus
 
 
+```diff
 + Focus Areas:
 ! Red Teaming | Malware Analysis | Network Security | CTF Challenges
 - Currently Learning: Advanced Exploit Development | Reverse Engineering
-
+```
 
 
 
