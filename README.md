@@ -3,7 +3,7 @@
 <!-- Dynamic Typing Text with Cyber Theme -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+,+I'm+Amr;Cyber+Security+Enthusiast;Malware+Analys+|Red+Team+enthusiast+;Open+Source+Contributor&center=true&width=500&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+,+I'm+Amr;Cyber+Security+Enthusiast;Malware+Analys+|+Red+Team+enthusiast+;Open+Source+Contributor&center=true&width=500&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 
 
 
-![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
+<!-- Activity Graph with Cyber Theme -->
+![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=react-dark&bg_color=0d1117&hide_border=true&area=true)
 
 
 
