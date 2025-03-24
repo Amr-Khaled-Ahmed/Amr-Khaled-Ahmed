@@ -25,9 +25,6 @@
 - Currently Learning: Advanced Exploit Development | Reverse Engineering
 ```
 
-
-
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Amr-Khaled-Ahmed" /> 
 </p>
@@ -41,7 +38,15 @@
 - 🔭 **Current Focus:** Exploring various projects in **red teaming and malware analysis**.
 - 🌱 **Learning Path:** Deepening my knowledge in **cybersecurity, espically read teaming**.
 
-
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="Metasploit" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nessus/nessus-icon.svg" alt="Nessus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/burp/burp-icon.svg" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
+</p>
 
 ### 🌐 Connect with Me
 <div align="left"> 
