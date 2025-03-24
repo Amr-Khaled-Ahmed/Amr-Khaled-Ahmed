@@ -13,8 +13,7 @@
 ![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&color=blue)
-
+[![wakatime](https://wakatime.com/badge/user/youruserid.svg)](https://wakatime.com/@youruserid)
 
 
 
