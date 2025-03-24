@@ -1,15 +1,27 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
-
-
-
-
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;I'm+learning+Cyber+Security.;Explore+my+profile.;&center=true&width=500&height=50&color=377dff"></a>
 </p><br><br><br><br>
+
+
+
+
+
+
+
+![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&color=blue)
+
+
+
+
+
+
+
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Amr-Khaled-Ahmed" /> 
