@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
 
 
 
