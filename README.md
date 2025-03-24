@@ -13,7 +13,6 @@
 ![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
 
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Amr-Khaled-Ahmed.Amr-Khaled-Ahmed)
 
 
 
