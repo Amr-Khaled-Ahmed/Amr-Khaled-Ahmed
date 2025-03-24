@@ -69,7 +69,8 @@ I'm skilled in the following technologies and tools:
 
 <p align="left">
   <!-- Low-Level & Systems -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Windows_11_Logo.svg" alt="Windows 11" width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
