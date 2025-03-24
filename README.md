@@ -84,6 +84,18 @@ I'm skilled in the following technologies and tools:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jitbrains" width="40" height="40"/>
 </p>
 
+
+
+<p align="left">
+  <!-- Debugging & Analysis -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/IDA_Pro_Logo.png" alt="IDA Pro" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/WinDbg_Logo.png" alt="WinDbg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ollydbg_Icon.png" alt="OllyDbg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/X64dbg_Logo.png" alt="x64dbg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Ghidra_Logo.png" alt="Ghidra" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Radare2_Logo.png" alt="radare2" width="40" height="40"/>
+</p>
+
 ### 📊 GitHub Stats
 <h3 align="center">📈 My GitHub Statistics</h3>
 <p align="center">
