@@ -37,7 +37,7 @@ I'm skilled in the following technologies and tools:
 
 <p align="left">
   <!-- Programming Languages -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Assembly_icon.svg/120px-Assembly_icon.svg.png" alt="NASM" width="40" height="40" />
+<img src="https://nasm.us/images/nasm-logo.png" alt="NASM" width="80" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
