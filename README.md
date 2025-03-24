@@ -13,9 +13,7 @@
 ![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact)
 
 
-[![Visitor Log](https://img.shields.io/badge/Sign%20my%20visitor%20book!-%20Click%20here!-blue)](https://github.com/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed/issues/new?template=visitor-log.md&title=Visited+by+%3Cyour-name%3E)
-
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Amr-Khaled-Ahmed.Amr-Khaled-Ahmed)
 
 
 
