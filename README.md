@@ -1,8 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+<!-- Dynamic Typing Text with Cyber Theme -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;I'm+learning+Cyber+Security.;Explore+my+profile.;&center=true&width=500&height=50&color=377dff"></a>
-</p><br><br><br><br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Amr;Cyber+Security+Enthusiast;Red+Team+|+Malware+Analysis;Open+Source+Contributor&center=true&width=500&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
+  </a>
+</p>
 
 
 
