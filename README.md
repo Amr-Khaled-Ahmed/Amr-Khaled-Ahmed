@@ -7,7 +7,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Amr-Khaled-Ahmed" /> 
 </p>
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_REPO)
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=onestar&column=7&row=1" alt="My Trophies" />
