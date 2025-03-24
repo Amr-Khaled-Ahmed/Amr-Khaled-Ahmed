@@ -1,5 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi👋;I'm+learning+Cyber+Security.;Explore+my+profile.;&center=true&width=500&height=50&color=377dff"></a>
 </p><br><br><br><br>
@@ -15,8 +23,8 @@
 
 ### 👨‍🎓 About Me
 - 🔭 **Current Focus:** Exploring various projects in **red teaming and malware analysis**.
-- 🌱 **Learning Path:** Deepening my knowledge in **cybersecurity, penetration testing**, and 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=radical)
+- 🌱 **Learning Path:** Deepening my knowledge in **cybersecurity, espically read teaming**.
+
 
 
 ### 🌐 Connect with Me
