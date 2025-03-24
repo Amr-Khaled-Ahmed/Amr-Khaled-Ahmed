@@ -70,7 +70,7 @@ I'm skilled in the following technologies and tools:
 
 <p align="left">
   <!-- Low-Level & Systems -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Kali_Linux_2.0_icon.svg" alt="Kali Linux" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
