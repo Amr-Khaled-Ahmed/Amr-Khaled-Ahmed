@@ -108,7 +108,6 @@ I'm skilled in the following technologies and tools:
 
 ### 📊 GitHub Stats
 <h3 align="center">📈 My GitHub Statistics</h3>
-## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Amr's GitHub Stats" />
