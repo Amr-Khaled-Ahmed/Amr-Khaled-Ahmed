@@ -59,7 +59,6 @@ I'm a cybersecurity specialist passionate about breaking and building secure sys
 
 - 🔭 **Currently:** Conducting research on advanced red teaming methodologies and malware analysis techniques
 - 🌱 **Learning:** Advanced exploit development, reverse engineering, and threat intelligence
-- 🏆 **Achievements:** [Your notable achievements or certifications if applicable]
 - 👯 **Looking to collaborate on:** Open-source security tools and CTF competitions
 - 💬 **Ask me about:** Malware analysis, penetration testing, or cybersecurity career advice
 
@@ -123,9 +122,8 @@ I'm a cybersecurity specialist passionate about breaking and building secure sys
 
 <div align="center">
 
-<!-- Replace with your actual projects -->
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=REPOSITORY_NAME_1&theme=radical)](https://github.com/Amr-Khaled-Ahmed/REPOSITORY_NAME_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=REPOSITORY_NAME_2&theme=radical)](https://github.com/Amr-Khaled-Ahmed/REPOSITORY_NAME_2)
+[![CyberSec-Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=radical)](https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit)
+[![Malware-analysis-work-shop](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=radical)](https://github.com/Amr-Khaled-Ahmed/Malware-analysis-work-shop)
 
 </div>
 
@@ -172,8 +170,12 @@ I'm a cybersecurity specialist passionate about breaking and building secure sys
 
 <!-- Quote or Motto -->
 <div align="center">
-  <h3>"Security is not a product, but a process." — Bruce Schneier</h3>
+  <h3>
+    وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
+    أُبايعُ من لا يَشرَفُ المالُ كَفَّهُ
+  </h3>
 </div>
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
