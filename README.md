@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- Animated Typing Text with Enhanced Cybersecurity Theme -->
+<!-- Animated Typing Text with Student Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Amr;Cybersecurity+Specialist;Malware+Analysis+|+Red+Team+Student;Ethical+Hacker+|+CTF+Player&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Amr;Cybersecurity+Student;Bug+Hunting+|+Red+Team+Tools+Developer;Malware+Analysis+|+Full+Stack+Developer&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
   </a>
 </p>
 
@@ -12,17 +12,17 @@
 
 ```bash
 $ whoami
-> Amr-Khaled-Ahmed: Cybersecurity specialist with focus on offensive security and malware analysis
+> Amr-Khaled-Ahmed: Cybersecurity student focused on bug hunting, red teaming, and malware analysis
 ```
 
 </div>
 
 <!-- Security Badge Section -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Operations-red?style=for-the-badge&logo=targetprocess&logoColor=white" />
-  <img src="https://img.shields.io/badge/Malware-Analysis-purple?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-Security-blue?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF-Player-orange?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Bug%20Hunting-red?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developing-Red%20Team%20Tools-purple?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Studying-Malware%20Analysis-blue?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
 <!-- Profile Views Counter -->
@@ -40,85 +40,139 @@ $ whoami
     </a>
 </p>
 
-## 🔐 Security Arsenal
+## 🔐 Security Learning Path
 
 ```diff
-+ Offensive Security:
-! Penetration Testing | Exploit Development | Social Engineering | Red Team Operations
++ Bug Hunting & Red Teaming:
+! Web Application Vulnerabilities | OWASP Top 10 | Custom Exploitation Tool Development
 
-+ Defensive Security:
-! Threat Hunting | Incident Response | Digital Forensics | Secure Coding Practices
++ Malware Analysis & Reverse Engineering:
+! Static Analysis | Dynamic Analysis | Sandbox Evasion Techniques | Obfuscation
 
-+ Current Research:
-- Advanced Persistence Techniques | Zero-Day Exploit Analysis | OSINT Methodology
++ Development Skills:
+- C++ Algorithms | C++ tools | Python tools | Full Stack Web Development | Network Protocol Implementations
 ```
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity specialist passionate about breaking and building secure systems.
+I'm a cybersecurity student passionate about breaking and building secure systems.
 
-- 🔭 **Currently:** Conducting research on advanced red teaming methodologies and malware analysis techniques
-- 🌱 **Learning:** Advanced exploit development, reverse engineering, and threat intelligence
+- 🔍 **Currently:** Learning bug hunting techniques and developing custom red team tools
+- 🌱 **Studying:** Advanced C++ algorithms, malware analysis techniques, and full stack development
 - 👯 **Looking to collaborate on:** Open-source security tools and CTF competitions
-- 💬 **Ask me about:** Malware analysis, penetration testing, or cybersecurity career advice
+- 💬 **Ask me about:** My cybersecurity learning journey and current projects
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
-<details>
-  <summary><b>🔧 Languages & Low-Level Skills</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" alt="Assembly" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </p>
-</details>
+<!-- New Technical Skills Section with Grid Layout -->
+<div align="center">
+  <!-- Languages Section -->
+  <h3>📝 Programming & Scripting Languages</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+        <br>C
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
+        <br>C++
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+        <br>Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+        <br>Bash
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+        <br>PHP
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" width="48" height="48" alt="Assembly"/>
+        <br>Assembly
+      </td>
+    </tr>
+  </table>
 
-<details>
-  <summary><b>🌐 Web Security & Development</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
-  </p>
-</details>
+  <!-- Web Development Section -->
+  <h3>🌐 Web Development Stack</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+        <br>HTML5
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+        <br>CSS3
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap"/>
+        <br>Bootstrap
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS"/>
+        <br>Tailwind
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
+        <br>Django
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+        <br>MySQL
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
+        <br>SQL Server
+      </td>
+    </tr>
+  </table>
 
-<details>
-  <summary><b>🛡️ Security Tools & Environments</b></summary>
-  <br>
-  <p align="left">
-    <!-- Security Tools (Add icons for tools you use) -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" alt="VMware" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-    <!-- Add more security tools you use -->
-  </p>
-</details>
+  <!-- Security & Development Tools -->
+  <h3>🔒 Security & Development Environment</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="48" height="48" alt="VMware"/>
+        <br>VMware
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+        <br>Linux
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows"/>
+        <br>Windows
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+        <br>Git
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
+        <br>VS Code
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim"/>
+        <br>Neovim
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="JetBrains"/>
+        <br>JetBrains
+      </td>
+    </tr>
+  </table>
+</div>
 
-<details>
-  <summary><b>🔍 Development & Analysis Tools</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
-  </p>
-</details>
-
-## 🏆 Featured Projects
+## 🏆 Featured Learning Projects
 
 <div align="center">
 
@@ -171,8 +225,8 @@ I'm a cybersecurity specialist passionate about breaking and building secure sys
 <!-- Quote or Motto -->
 <div align="center">
   <h3>
-    وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
-    أُبايعُ من لا يَشرَفُ المالُ كَفَّهُ
+    وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
+    أُبايعُ من لا يَشرَفُ المالُ كَفَّهُ
   </h3>
 </div>
 
