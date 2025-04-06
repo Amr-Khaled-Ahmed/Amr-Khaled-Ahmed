@@ -3,7 +3,7 @@
 <!-- Animated Typing Text with Enhanced Cybersecurity Theme -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Amr;Cybersecurity+Specialist;Malware+Analysis+|+Red+Team+Expert;Ethical+Hacker+|+CTF+Player&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Amr;Cybersecurity+Specialist;Malware+Analysis+|+Red+Team+Student;Ethical+Hacker+|+CTF+Player&center=true&width=600&height=50&color=00F0FF&vCenter=true&size=24&pause=1000">
   </a>
 </p>
 
