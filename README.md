@@ -108,12 +108,30 @@ I'm skilled in the following technologies and tools:
 
 ### 📊 GitHub Stats
 <h3 align="center">📈 My GitHub Statistics</h3>
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&locale=en&theme=dark" alt="My GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark" alt="Top Languages" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark" alt="Streak Stats" />
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Amr's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<!-- Digital Circuit Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Circuit Animation" />
+</div>
+
+<!-- Contribution Summary -->
+<div align="center">
+  <a href="https://github.com/Amr-Khaled-Ahmed">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Khaled-Ahmed&theme=radical" width="100%" />
+  </a>
+</div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
