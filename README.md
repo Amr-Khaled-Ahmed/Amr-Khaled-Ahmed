@@ -83,6 +83,10 @@ I'm a cybersecurity student passionate about breaking and building secure system
         <br>Python
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
       </td>
@@ -136,6 +140,25 @@ I'm a cybersecurity student passionate about breaking and building secure system
     </tr>
   </table>
 
+  <!-- Desktop & UI Frameworks Section -->
+  <h3>🖥️ Desktop & UI Frameworks</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
+        <br>Qt
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+        <br>JavaFX
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+        <br>Swing
+      </td>
+    </tr>
+  </table>
+
   <!-- Security & Development Tools -->
   <h3>🔒 Security & Development Environment</h3>
   <table>
@@ -170,38 +193,32 @@ I'm a cybersecurity student passionate about breaking and building secure system
       </td>
     </tr>
   </table>
+</div>
 
-
-
-<!-- Desktop & UI Frameworks Section -->
-<h3>🖥️ Desktop & UI Frameworks</h3>
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
-      <br>Qt
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-      <br>JavaFX
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-      <br>Swing
-    </td>
-    <!-- You can add more desktop frameworks here if needed -->
-  </tr>
-</table>
-  
+<!-- Skill Proficiency with Dynamic Progress Bars -->
+<h3>🔥 Skill Proficiency</h3>
+<div align="center">
+  <img src="https://progress-bar.dev/90/?title=C++&width=200&color=3178C6">
+  <img src="https://progress-bar.dev/85/?title=Python&width=200&color=FF0000">
+  <img src="https://progress-bar.dev/80/?title=Java&width=200&color=007396">
+  <img src="https://progress-bar.dev/75/?title=JavaScript&width=200&color=F7DF1E">
 </div>
 
 ## 🏆 Featured Learning Projects
 
 <div align="center">
+  <a href="https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=radical&show_icons=true&border_color=00F0FF&border_radius=10" />
+  </a>
+  <a href="https://github.com/Amr-Khaled-Ahmed/Malware-analysis-work-shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=radical&show_icons=true&border_color=00F0FF&border_radius=10" />
+  </a>
+</div>
 
-[![CyberSec-Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=radical)](https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit)
-[![Malware-analysis-work-shop](https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=radical)](https://github.com/Amr-Khaled-Ahmed/Malware-analysis-work-shop)
-
+<!-- Dynamic Terminal-Like Interface -->
+<h3>💻 Terminal</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=cd+%2Fhome%2FAmr;ls+-la;cat+skills.txt;sudo+apt+install+cybersecurity;chmod+777+hacking_tools.sh;./hack_the_planet.sh" alt="Terminal Animation" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -213,6 +230,12 @@ I'm a cybersecurity student passionate about breaking and building secure system
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<!-- Dynamic Quote -->
+<h3>💭 Inspiring Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </div>
 
 <!-- Contribution Summary -->
@@ -252,7 +275,6 @@ I'm a cybersecurity student passionate about breaking and building secure system
     أُبايعُ من لا يَشرَفُ المالُ كَفَّهُ
   </h3>
 </div>
-
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
