@@ -170,6 +170,29 @@ I'm a cybersecurity student passionate about breaking and building secure system
       </td>
     </tr>
   </table>
+
+
+
+<!-- Desktop & UI Frameworks Section -->
+<h3>🖥️ Desktop & UI Frameworks</h3>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
+      <br>Qt
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br>JavaFX
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+      <br>Swing
+    </td>
+    <!-- You can add more desktop frameworks here if needed -->
+  </tr>
+</table>
+  
 </div>
 
 ## 🏆 Featured Learning Projects
