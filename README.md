@@ -64,15 +64,6 @@ $ cat /etc/passwd | grep contact
 ```
 
 <!-- Professional Digital Clock with Timezone Support -->
-<div align="center">
-  <a href="https://time.is/UTC" id="time_is_link" rel="nofollow" style="font-size:24px">Security Operations Time (UTC):</a>
-  <span id="UTC_z71b" style="font-size:24px"></span>
-  <script src="//widget.time.is/en.js"></script>
-  <script>
-  time_is_widget.init({UTC_z71b:{template:"TIME<br>DATE", date_format:"dayname, monthname dnum, year"}});
-  </script>
-</div>
-
 ## 👨‍💻 Professional Profile
 
 I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerability assessment, exploit development, and secure systems architecture. My technical journey is driven by a commitment to creating safer digital environments through both offensive and defensive security approaches.
@@ -107,7 +98,6 @@ My career mission is to bridge the gap between theoretical security research and
 
 <!-- Technical Skills Section with Improved Organization -->
 <div align="center">
-  <!-- Languages Section -->
   <h3>🔄 Programming & Security Languages</h3>
   <table>
     <tr>
