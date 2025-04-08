@@ -1,70 +1,71 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+# <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- Animated Typing Text with Student Focus -->
+<!-- Animated Typing Text with Enhanced Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World,+I'm+Amr;Cybersecurity+Student;Ethical+Hacker+|+C/C%2B%2B+Developer;Malware+Analysis+|+Full+Stack+Developer&center=true&width=600&height=50&color=0D5F1A&vCenter=true&size=24&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B+Engineer;Malware+Analyst+%7C+Full+Stack+Developer;CTF+Player+%7C+Security+Researcher&center=true&width=600&height=50&color=0D5F1A&vCenter=true&size=24&pause=1000">
   </a>
 </p>
 
-<!-- Live Terminal-style Introduction -->
-<div align="left">
+<!-- Enhanced Terminal-style Introduction with More Realistic Output -->
+<div align="center">
 
 ```bash
 $ whoami
-> Amr-Khaled-Ahmed: Cybersecurity student focused on ethical hacking, C/C++ development, and malware analysis
-$ ./skills.sh
-> [Loading 100% complete]: Penetration Testing | Reverse Engineering | Programming | Full Stack Development
-$ date
-> Current Date: $(date)
-$ ps -aux | grep projects
-> ACTIVE: Bug Bounty Hunting | Security Tool Development | CTF Competitions
+> amr@cybersec:~$ Cybersecurity specialist with expertise in ethical hacking, reverse engineering, and secure development
+$ ./skills.sh --list-top
+> [Loading complete]: Advanced Penetration Testing | Malware Analysis | C/C++ Security Development | Vulnerability Research
+$ uname -a
+> CyberOS 5.15.0-kali1-amd64 #1 SMP Debian 5.15.0-1kali1 (2023) x86_64 GNU/Linux
+$ ps -aux | grep active-projects
+> ACTIVE: Zero-Day Research | Security Tool Development | CTF Competitions | Bug Bounty Hunting
+$ cat /etc/passwd | grep contact
+> github:Amr-Khaled-Ahmed:x:1000:1000:GitHub Profile:/home/amr:/bin/bash
 ```
 
 </div>
 
-<!-- Security Badge Section with Dark Green Theme -->
+<!-- Security Badge Section with Improved Visual Hierarchy -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Learning-Ethical%20Hacking-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programming-C%2FC%2B%2B-0D5F1A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Studying-Malware%20Analysis-0D5F1A?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-0D5F1A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expert-C%2FC%2B%2B-0D5F1A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialist-Malware%20Analysis-0D5F1A?style=for-the-badge&logo=virustotal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-0D5F1A?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
-<!-- Dynamic Profile Views Counter -->
+<!-- Enhanced Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20views&color=0D5F1A&style=flat" alt="Amr-Khaled-Ahmed" />
-  <img src="https://img.shields.io/github/followers/Amr-Khaled-Ahmed?label=Followers&style=social" alt="GitHub Followers" />
-  <!-- Dynamic Last Updated Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20visits&color=0D5F1A&style=flat" alt="Visit Counter" />
+  <img src="https://img.shields.io/github/followers/Amr-Khaled-Ahmed?label=Security%20Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/last-commit/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?label=Last%20Updated&color=0D5F1A" />
 </p>
 
-<!-- Activity Graph with Enhanced Cyber Theme -->
+<!-- Clean Activity Graph with Enhanced Security Theme -->
 ![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact&bg_color=0d1117&color=0D5F1A&line=2D8F3A&point=ffffff&hide_border=true&area=true)
 
-<!-- Profile Trophies -->
+<!-- Profile Trophies with Improved Layout -->
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=matrix&column=7&row=1&margin-w=15&no-frame=true" alt="My Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=matrix&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Achievement Trophies" />
     </a>
 </p>
 
-## 🔐 Security Learning Path
+## 🔐 Cybersecurity Arsenal
 
 ```diff
-+ Ethical Hacking & Red Teaming:
-! Web Application Vulnerabilities | OWASP Top 10 | Custom Exploitation Techniques | Bug Bounty Hunting
++ Offensive Security & Red Team Operations:
+! Advanced Web Exploitation | OWASP Top 10 Mastery | Zero-Day Research | Custom Exploit Development | APT Simulation
 
-+ Malware Analysis & Reverse Engineering:
-! Static Analysis | Dynamic Analysis | Sandbox Evasion Techniques | Obfuscation | Zero-Day Research
++ Defensive Security & Analysis:
+! Advanced Malware Analysis | Reverse Engineering | Memory Forensics | Threat Hunting | Security Monitoring
 
-+ Development Skills:
-- C/C++ Algorithms | C/C++ Security Tools | Python Tools | Full Stack Web Development | Penetration Testing Tools
++ Security Development:
+- Secure Coding Practices | C/C++ Security Tools | Vulnerability Assessment Tools | Custom Security Frameworks
 ```
 
-<!-- NEW: Digital Clock -->
+<!-- Professional Digital Clock with Timezone Support -->
 <div align="center">
-  <a href="https://time.is/UTC" id="time_is_link" rel="nofollow" style="font-size:24px">UTC Time:</a>
+  <a href="https://time.is/UTC" id="time_is_link" rel="nofollow" style="font-size:24px">Security Operations Time (UTC):</a>
   <span id="UTC_z71b" style="font-size:24px"></span>
   <script src="//widget.time.is/en.js"></script>
   <script>
@@ -72,47 +73,46 @@ $ ps -aux | grep projects
   </script>
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
-I'm Amr Khaled, a cybersecurity student passionate about understanding computer systems and their security vulnerabilities. My journey in technology is driven by curiosity and a commitment to making digital spaces safer.
+I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerability assessment, exploit development, and secure systems architecture. My technical journey is driven by a commitment to creating safer digital environments through both offensive and defensive security approaches.
 
-- 🔍 **Currently:** Learning ethical hacking techniques, malware analysis, bug bounty hunting, and developing C/C++ security tools
-- 🌱 **Studying:** Advanced penetration testing, exploit development, and reverse engineering techniques
-- 🛡️ **Skills:** Software engineering with a focus on security-oriented development
-- 💻 **Favorite Language:** C++ for its performance and control in developing security tools
-- 👯 **Looking to collaborate on:** Open-source security tools, CTF competitions, and bug bounty programs
-- 💬 **Ask me about:** My cybersecurity learning journey, tool development, and security research
+- 🛡️ **Expertise:** Advanced penetration testing, exploit development, malware analysis, and secure software engineering
+- 🔬 **Research Focus:** Zero-day vulnerability discovery, advanced persistence techniques, and threat intelligence
+- 💻 **Development:** Security-focused C/C++ tools, automated vulnerability scanners, and defensive frameworks
+- 🌐 **Communities:** Active contributor to security communities, CTF competitions, and vulnerability disclosure programs
+- 🎓 **Continuous Learning:** Constantly expanding knowledge in emerging threat vectors and advanced security methodologies
 
-I'm constantly expanding my knowledge in threat intelligence and security operations, with the goal of becoming an accomplished security professional who can both find vulnerabilities and develop solutions to patch them.
+My career mission is to bridge the gap between theoretical security research and practical implementation, developing innovative solutions that preemptively address emerging cyber threats.
 
-<!-- NEW: Interactive Terminal Demo -->
-## Terminal 💻
+<!-- Enhanced Interactive Terminal Demo with Security Focus -->
+## Security Operations Terminal 💻
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=24&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&lines=cd+%2Fhome%2FAmr;ls+-la;cat+skills.txt;nmap+-sS+-p-+target;binwalk+suspicious.bin;strings+malware.exe+%7C+grep+URL;objdump+-d+binary;sudo+apt+install+security-tools;chmod+777+ethical_hack.sh;./hack_the_planet.sh" alt="Terminal Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=24&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&lines=sudo+nmap+-sS+-sV+-A+--script+vuln+target.com;binwalk+-e+--dd+'.*'+suspicious.bin;volatility+-f+memory.dmp+pstree;sudo+responder+-I+eth0+-wrf;hashcat+-m+1000+hashes.txt+rockyou.txt;wireshark+-i+eth0+-f+'port+443';strace+-p+$(pidof+malware);ltrace+-p+$(pidof+suspicious);./exploit+--target=192.168.1.1+--payload=reverse_shell" alt="Security Terminal Commands" />
 </div>
 
-<!-- NEW: Live 3D Contribution Calendar -->
+<!-- Added GitHub Skyline 3D Contribution Visualization -->
 <div align="center">
   <a href="https://skyline.github.com/Amr-Khaled-Ahmed/2024" target="_blank">
-    <img src="https://img.shields.io/badge/Click_to_See-My_GitHub_Skyline_(3D_Contribution_Graph)-0D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline_3D_Contribution_Graph-0D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
   </a>
 </div>
 
-<!-- Interactive Snake Animation -->
+<!-- Animated Contribution Snake with Custom Color -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
-<!-- Technical Skills Section with Grid Layout -->
+<!-- Technical Skills Section with Improved Organization -->
 <div align="center">
   <!-- Languages Section -->
-  <h3>📝 Programming & Scripting Languages</h3>
+  <h3>🔄 Programming & Security Languages</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
         <br>C
       </td>
       <td align="center">
@@ -142,9 +142,15 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
       <td align="center">
         <img src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png" width="48" height="48" alt="Assembly"/>
         <br>Assembly
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
+        <br>Qt
       </td>
+
     </tr>
   </table>
+
+
 
   <!-- Web Development Section -->
   <h3>🌐 Web Development Stack</h3>
@@ -167,6 +173,10 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
         <br>Tailwind
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+        <br>React
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django"/>
         <br>Django
       </td>
@@ -174,37 +184,17 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
         <br>MySQL
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
-        <br>SQL Server
-      </td>
     </tr>
   </table>
 
-
-  <!-- Desktop & UI Frameworks Section -->
-  <h3>🖥️ Desktop & UI Frameworks</h3>
+  <!-- Security Environment -->
+  <h3>🖥️ Security Operations Environment</h3>
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
-        <br>Qt
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux"/>
+        <br>Kali Linux
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-        <br>JavaFX
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-        <br>Swing
-      </td>
-    </tr>
-  </table>
-
-  <!-- Development Environment -->
-  <h3>🛠️ Development Environment</h3>
-  <table>
-    <tr>
       <td align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="48" height="48" alt="VMware"/>
         <br>VMware
@@ -218,6 +208,10 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
         <br>Windows
       </td>
       <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+        <br>Docker
+      </td>
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
         <br>Git
       </td>
@@ -225,20 +219,12 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
         <br>VS Code
       </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim"/>
-        <br>Neovim
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="JetBrains"/>
-        <br>JetBrains
-      </td>
     </tr>
   </table>
 </div>
 
-<!-- NEW: Active Projects Section -->
-<h3>🚀 Active Projects</h3>
+<!-- Featured Security Projects Section -->
+<h3>🚀 Featured Security Projects</h3>
 
 <div align="center">
   <a href="https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit">
@@ -249,81 +235,76 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
   </a>
 </div>
 
-## 📊 GitHub Analytics
+<!-- Security Research Portfolio (New Section) -->
+<!-- <h3>📊 Security Research Portfolio</h3> -->
+<!-- <div align="center"> -->
+  <a href="https://github.com/Amr-Khaled-Ahmed/Vulnerability-Research">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Vulnerability-Research&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" /> -->
+  </a>
+  <a href="https://github.com/Amr-Khaled-Ahmed/CTF-Writeups">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CTF-Writeups&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" /> -->
+  </a>
+</div>
 
-<!-- Enhanced GitHub Stats Section with Additional Metrics -->
+## 📊 Security Analytics Dashboard
+
+<!-- Enhanced GitHub Stats Section with Security Focus -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&border_radius=10" alt="Amr's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&border_radius=10" alt="Security Statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&border_radius=10&exclude_repo=dotfiles,configs" alt="Language Arsenal" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff&border_radius=10" alt="Consistency Metrics" />
 </div>
 
-<!-- NEW: Dynamic Activity Calendar -->
-<h3>📅 Contribution Calendar</h3>
+<!-- Interactive Contribution Calendar -->
+<h3>📅 Security Development Timeline</h3>
 <div align="center">
-  <img src="https://ghchart.rshah.org/0D5F1A/Amr-Khaled-Ahmed" alt="Amr's GitHub Contribution Calendar" />
+  <img src="https://ghchart.rshah.org/0D5F1A/Amr-Khaled-Ahmed" alt="Security Contribution Timeline" />
 </div>
 
-<!-- New GitHub Status Section -->
-<h3>🔥 GitHub Status Dashboard</h3>
+<!-- Enhanced GitHub Status Dashboard -->
+<h3>🔥 Security Development Analytics</h3>
 <div align="center">
-  <!-- Contribution Calendar -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amr-Khaled-Ahmed&theme=github_dark&utcOffset=8" alt="Contribution Time" />
-
-  <!-- Commit Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Repos per Language" />
-
-  <!-- Most Used Languages Dashboard -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Most Commit Language" />
-
-  <!-- Stats Dashboard -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Stats" />
+  <!-- Analytics Cards with Better Layout -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amr-Khaled-Ahmed&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Security Arsenal by Language" />
 </div>
 
-<!-- Wakatime Stats (if available) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amr-Khaled-Ahmed&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&layout=compact&border_radius=10" alt="Wakatime Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Core Development Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Development Metrics" />
 </div>
 
-<!-- Contribution Metrics -->
+<!-- Contribution Analysis -->
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Contribution Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
 </div>
 
-<!-- NEW: Dynamic Metrics Badges -->
+<!-- Security Metrics Dashboard -->
 <div align="center">
-  <img src="https://img.shields.io/github/issues/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?color=0D5F1A" alt="Issues" />
-  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0D5F1A" alt="Stars" />
-  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?color=0D5F1A" alt="Commit Activity" />
+  <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Security%20Issues%20Resolved" alt="Security Issues Resolved" />
+  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0D5F1A&label=Security%20Endorsements" alt="Security Endorsements" />
+  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Security%20Development%20Activity" alt="Security Development Activity" />
 </div>
 
-<!-- Dynamic Quote -->
-<h3>💭 Inspiring Quote</h3>
+<!-- Security Quote -->
+<h3>💭 Security Philosophy</h3>
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+  <blockquote>
+    "Security is not a product, but a process and a mindset. It's about understanding the adversary and building systems that remain resilient even when components fail."
+  </blockquote>
 </div>
 
-<!-- Contribution Summary -->
+<!-- Comprehensive Security Portfolio -->
 <div align="center">
   <a href="https://github.com/Amr-Khaled-Ahmed">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Khaled-Ahmed&theme=github_dark" width="100%" />
   </a>
 </div>
 
-<!-- NEW: Recent Activity Section -->
-<!-- <h3>📋 Recent GitHub Activity</h3> -->
-
-<!--START_SECTION:activity-->
-<!-- 1. 🔒 Closed issue [#1](https://github.com/Amr-Khaled-Ahmed/security-tool/issues/1) in [Amr-Khaled-Ahmed/security-tool](https://github.com/Amr-Khaled-Ahmed/security-tool) -->
-<!-- 2. 💻 Committed to [Amr-Khaled-Ahmed/malware-analysis](https://github.com/Amr-Khaled-Ahmed/malware-analysis) -->
-<!-- 3. 🎉 Merged PR [#3](https://github.com/Amr-Khaled-Ahmed/web-pentest/pull/3) in [Amr-Khaled-Ahmed/web-pentest](https://github.com/Amr-Khaled-Ahmed/web-pentest) -->
-<!-- 4. 👨‍💻 Created a new repository [Amr-Khaled-Ahmed/CTF-writeups](https://github.com/Amr-Khaled-Ahmed/CTF-writeups) -->
-<!--END_SECTION:activity-->
-
-## 🌐 Connect with Me
+## 🌐 Professional Network
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank">
@@ -332,20 +313,26 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
   <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D5F1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://tryhackme.com/p/AmrKhaledAhmed" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://app.hackthebox.com/profile/AmrKhaledAhmed" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-0D5F1A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+  </a>
   <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-0D5F1A?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
   <a href="https://twitter.com/AmrKhaledAhmed" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0D5F1A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+</div>
+
+<div align="center">
   <a href="https://www.hackerrank.com/AmrKhaledAhmed" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-0D5F1A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="https://tryhackme.com/p/AmrKhaledAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://app.hackthebox.com/profile/AmrKhaledAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-0D5F1A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
+  <a href="https://bugcrowd.com/AmrKhaledAhmed" target="_blank">
+    <img src="https://img.shields.io/badge/Bugcrowd-0D5F1A?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
   </a>
   <a href="https://medium.com/@AmrKhaledAhmed" target="_blank">
     <img src="https://img.shields.io/badge/Medium-0D5F1A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
@@ -353,33 +340,29 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
   <a href="https://dev.to/amrkhaledahmed" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0D5F1A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="YOURWEBSITE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D5F1A?style=for-the-badge&logo=todoist&logoColor=white" alt="Website">
+  <a href="mailto:security@amrkhaledahmed.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
   </a>
 </div>
 
-
-<!-- NEW: Matrix Digital Rain Effect -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
+<!-- Advanced Visualization Effect -->
+<!-- <div align="center"> -->
+  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /> -->
+<!-- </div> -->
 
 <!-- Digital Circuit Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Circuit Animation" />
 </div>
 
-<!-- Binary Code Display -->
+<!-- Security Binary Message -->
 <div align="center">
   <h3>
-    01001000 01100001 01100011 01101011 00100000 01110100 01101000 01100101 00100000 01110000 01101100 01100001 01101110 01100101 01110100 00100001
+    01010011 01100101 01100011 01110101 01110010 01101001 01110100 01111001 00100000 01101001 01110011 00100000 01100001 00100000 01101010 01101111 01110101 01110010 01101110 01100101 01111001 00101100 00100000 01101110 01101111 01110100 00100000 01100001 00100000 01100100 01100101 01110011 01110100 01101001 01101110 01100001 01110100 01101001 01101111 01101110
   </h3>
 </div>
 
-<!-- Quote or Motto -->
+<!-- Arabic Quote -->
 <div align="center">
   <h3>
     وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
@@ -387,10 +370,10 @@ I'm constantly expanding my knowledge in threat intelligence and security operat
   </h3>
 </div>
 
-<!-- NEW: Visitor Map -->
+<!-- Interactive Global Visitor Map -->
 <div align="center">
-  <h3>Visitor Map</h3>
-  <img src="https://profile-counter.glitch.me/{Amr-Khaled-Ahmed}/count.svg" alt="Visitor Count" />
+  <h3>Global Security Network</h3>
+  <img src="https://profile-counter.glitch.me/{Amr-Khaled-Ahmed}/count.svg" alt="Security Network Connections" />
 </div>
 
 <div align="center">
