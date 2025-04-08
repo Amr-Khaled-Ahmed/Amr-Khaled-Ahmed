@@ -136,7 +136,6 @@ My career mission is to bridge the gap between theoretical security research and
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="48" height="48" alt="Qt"/>
         <br>Qt
       </td>
-
     </tr>
   </table>
 
