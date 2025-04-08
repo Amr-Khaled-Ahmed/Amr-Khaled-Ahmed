@@ -196,14 +196,6 @@ I'm a cybersecurity student passionate about breaking and building secure system
 </div>
 
 
-<!-- Skill Proficiency with Badges -->
-<h3>🔥 Skill Proficiency</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/C++-90%25-3178C6?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-85%25-FF0000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-80%25-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
 
 ## 🏆 Featured Learning Projects
 
