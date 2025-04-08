@@ -8,7 +8,7 @@
 </p>
 
 <!-- Enhanced Terminal-style Introduction with More Realistic Output -->
-<div align="center">
+<div align="left">
 
 ```bash
 $ whoami
