@@ -195,8 +195,6 @@ I'm a cybersecurity student passionate about breaking and building secure system
   </table>
 </div>
 
-
-
 ## 🏆 Featured Learning Projects
 
 <div align="center">
@@ -216,6 +214,7 @@ I'm a cybersecurity student passionate about breaking and building secure system
 
 ## 📊 GitHub Analytics
 
+<!-- Enhanced GitHub Stats Section with Additional Metrics -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Amr's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
@@ -223,6 +222,32 @@ I'm a cybersecurity student passionate about breaking and building secure system
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=radical&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<!-- New GitHub Status Section -->
+<h3>🔥 GitHub Status Dashboard</h3>
+<div align="center">
+  <!-- Contribution Calendar -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amr-Khaled-Ahmed&theme=radical" alt="Contribution Time" />
+  
+  <!-- Commit Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr-Khaled-Ahmed&theme=radical" alt="Repos per Language" />
+  
+  <!-- Most Used Languages Dashboard -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amr-Khaled-Ahmed&theme=radical" alt="Most Commit Language" />
+  
+  <!-- Stats Dashboard -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr-Khaled-Ahmed&theme=radical" alt="Stats" />
+</div>
+
+<!-- Wakatime Stats (if available) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amr-Khaled-Ahmed&theme=radical&layout=compact&border_radius=10" alt="Wakatime Stats" />
+</div>
+
+<!-- Contribution Metrics -->
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Repos" />
 </div>
 
 <!-- Dynamic Quote -->
