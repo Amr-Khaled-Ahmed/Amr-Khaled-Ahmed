@@ -16,7 +16,7 @@ $ whoami
 $ ./skills.sh --list-top
 > [Loading complete]: Advanced Penetration Testing | Malware Analysis | C/C++ Security Development | Vulnerability Research
 $ uname -a
-> CyberOS 5.15.0-kali1-amd64 #1 SMP Debian 5.15.0-1kali1 (2023) x86_64 GNU/Linux
+> CyberOS 5.15.0-kali1-amd64 
 $ ps -aux | grep active-projects
 > ACTIVE: Zero-Day Research | Security Tool Development | CTF Competitions | Bug Bounty Hunting
 $ cat /etc/passwd | grep contact
