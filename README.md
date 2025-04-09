@@ -302,34 +302,25 @@ My career mission is to bridge the gap between theoretical security research and
   <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D5F1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://tryhackme.com/p/AmrKhaledAhmed" target="_blank">
+  <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://app.hackthebox.com/profile/AmrKhaledAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-0D5F1A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox">
   </a>
   <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-0D5F1A?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://twitter.com/AmrKhaledAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-0D5F1A?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </div>
 
 <div align="center">
-  <a href="https://www.hackerrank.com/AmrKhaledAhmed" target="_blank">
+<!--   <a href="https://www.hackerrank.com/AmrKhaledAhmed" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-0D5F1A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a>
-  <a href="https://bugcrowd.com/AmrKhaledAhmed" target="_blank">
+  </a> -->
+<!--   <a href="https://bugcrowd.com/AmrKhaledAhmed" target="_blank">
     <img src="https://img.shields.io/badge/Bugcrowd-0D5F1A?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd">
-  </a>
-  <a href="https://medium.com/@AmrKhaledAhmed" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-0D5F1A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://dev.to/amrkhaledahmed" target="_blank">
+  </a> -->
+  <a href="https://amr-khaled-ahmed.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0D5F1A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="mailto:security@amrkhaledahmed.com" target="_blank">
+  <a href="mailto:amrkhaledv2171516@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contact-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
   </a>
 </div>
