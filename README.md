@@ -295,7 +295,6 @@ int main() {
     for(auto & _______ : _)
         delete _______;
     return **__[**__[0]];
-```
 </div>
 
 <!-- Security Quote -->
