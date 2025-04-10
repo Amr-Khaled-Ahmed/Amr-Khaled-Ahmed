@@ -275,10 +275,9 @@ My career mission is to bridge the gap between theoretical security research and
 </div>
 
 <div>
-  ```C++
+```c++
 #include <iostream>
 #include <vector>
-
 int main() {
     int *_[] = {new int(0), new int(1)};
     int **__ = &_;
@@ -293,12 +292,10 @@ int main() {
         _____ = (_____ * 1664525 + 1013904223) % 127;
         if (_____ < 32) _____ += 32;
     }
-    
     for(auto & _______ : _)
         delete _______;
-    
     return **__[**__[0]];
-} ```
+```
 </div>
 
 <!-- Security Quote -->
