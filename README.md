@@ -75,6 +75,34 @@ I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerabi
 
 My career mission is to bridge the gap between theoretical security research and practical implementation, developing innovative solutions that preemptively address emerging cyber threats.
 
+<!-- Obfuscated C++ Code -->
+## 🔒 Obfuscated Security Code Sample
+```cpp
+#include <iostream>
+#include <vector>
+
+int main() {
+    int *_[] = {new int(0), new int(1)};
+    int **__ = &_;
+    
+    std::vector<int> ___ = {14, 10, 5, 5, 12, 21, 23, 26, 12, 27, 5, 5, 28};
+    char ____ = 0;
+    int _____ = 72;
+    
+    for(auto ______ : ___) {
+        ____ = (_____ - ______) ^ **__[0] ^ **__[**__[0]];
+        std::cout << (____ ? ____ : '!');
+        _____ = (_____ * 1664525 + 1013904223) % 127;
+        if (_____ < 32) _____ += 32;
+    }
+    
+    for(auto & _______ : _)
+        delete _______;
+    
+    return **__[**__[0]];
+}
+```
+
 <!-- Security Operations Terminal -->
 ## Security Operations Terminal 💻
 <div align="center">
