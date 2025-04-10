@@ -76,7 +76,7 @@ I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerabi
 My career mission is to bridge the gap between theoretical security research and practical implementation, developing innovative solutions that preemptively address emerging cyber threats.
 
 <!-- Obfuscated C++ Code -->
-## 🔒 Obfuscated Security Code Sample
+## 🔒 CPP Code Sample
 ```cpp
 #include <iostream>
 #include <vector>
