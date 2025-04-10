@@ -193,13 +193,13 @@ My career mission is to bridge the gap between theoretical security research and
         <br>Windows
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-        <br>Docker
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
         <br>Git
       </td>
+          <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian"/>
+      <br>Debian
+    </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
         <br>VS Code
