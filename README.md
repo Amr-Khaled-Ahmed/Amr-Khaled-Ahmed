@@ -7,8 +7,8 @@
   </a>
 </p>
 
-<p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2831743" style='border:none;'></iframe>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png?type=badge&size=large&theme=dark" alt="TryHackMe Badge">
 </p>
 <!-- Terminal-style Introduction -->
 <div align="left">
