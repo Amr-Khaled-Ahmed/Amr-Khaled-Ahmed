@@ -8,10 +8,7 @@
 </p>
 
 <p>
-## 🧠 picoCTF Progress
-<!-- picoctf-progress-start -->
-Loading progress...
-<!-- picoctf-progress-end -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2831743" style='border:none;'></iframe>
 </p>
 <!-- Terminal-style Introduction -->
 <div align="left">
