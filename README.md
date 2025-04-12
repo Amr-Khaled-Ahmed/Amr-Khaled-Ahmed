@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png?type=badge&size=large&theme=dark" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png?type=badge&size=large&theme=dark" alt="TryHackMe Badge">
+  </a>
 </p>
 <!-- Terminal-style Introduction -->
 <div align="left">
