@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B+Engineer;Malware+Analyst+%7C+Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student&center=true&width=600&height=50&color=0D5F1A&vCenter=true&size=24&pause=1000">
   </a>
 </p>
+## 🧠 picoCTF Progress
+<!-- picoctf-progress-start -->
+Loading progress...
+<!-- picoctf-progress-end -->
 
 <!-- Terminal-style Introduction -->
 <div align="left">
