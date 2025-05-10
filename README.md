@@ -1,36 +1,18 @@
 # <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- Enhanced Animated Typing Text with Matrix-style Effect -->
+<!-- Animated Typing Text with Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World%2C+I'm+Amr+Khaled;%3C%2F%3E+Cybersecurity+Specialist+%7C+Ethical+Hacker;%7B+%7D+Malware+Analyst+%7C+C%2FC%2B%2B+Engineer;%5B+%5D+CTF+Player+%7C+Red+Team+Specialist" alt="Animated Introduction">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Specialist;Ethical+Hacker+%7C+C%2FC%2B%2B+Engineer;Malware+Analyst+%7C+Full+Stack+Developer;CTF+Player+%7C+Red+Teamer+Student&center=true&width=600&height=50&color=0D5F1A&vCenter=true&size=24&pause=1000">
   </a>
 </p>
 
-<!-- Animated Matrix Digital Rain Effect Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=100&pause=100&color=0D5F1A&center=true&vCenter=true&repeat=true&width=600&height=60&lines=01010011+01000101+01000011+01010101+01010010+01001001+01010100+01011001;10101001+01000101+10100101+01010100+01001001+01010100+00101010+01011001;01010011+01000101+01000011+01010101+01010010+01001001+01010100+01011001" alt="Matrix Rain Effect">
-</div>
-
-<!-- Animated Security Badge - Custom SVG -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-Level-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/▁▂▃▄▅▆▇█-MAXIMUM-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
-</p>
-
-<!-- Animated Security Shield Pulse Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=4000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=500&height=40&lines=🔒+SECURITY+FIRST+🔒;🛡️+DEFENSE+IN+DEPTH+🛡️;🔐+ZERO+TRUST+ARCHITECTURE+🔐" alt="Security Mantras">
-</div>
-
-<!-- Animated TryHackMe Profile Badge -->
 <p align="center">
   <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="TryHackMe Badge">
   </a>
 </p>
-
-<!-- Dynamic Matrix-Style Terminal Introduction -->
+<!-- Terminal-style Introduction -->
 <div align="left">
 
 ```bash
@@ -44,13 +26,11 @@ $ ps -aux | grep active-projects
 > ACTIVE: Zero-Day Research | Security Tool Development | CTF Competitions | Bug Bounty Hunting
 $ cat /etc/passwd | grep contact
 > github:Amr-Khaled-Ahmed:x:1000:1000:GitHub Profile:/home/amr:/bin/bash
-$ ./access_granted.sh
-> [████████████████████] 100% Complete - Access Granted to Security Profile
 ```
 
 </div>
 
-<!-- Animated Security Badge Section -->
+<!-- Security Badge Section -->
 <div align="center">
   <img src="https://img.shields.io/badge/Security-Ethical%20Hacking-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
   <img src="https://img.shields.io/badge/Expert-C%2FC%2B%2B-0D5F1A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -58,43 +38,24 @@ $ ./access_granted.sh
   <img src="https://img.shields.io/badge/Developer-Full%20Stack-0D5F1A?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
-<!-- Animated Profile Metrics -->
+<!-- Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20visits&color=0D5F1A&style=flat" alt="Visit Counter" />
   <img src="https://img.shields.io/github/followers/Amr-Khaled-Ahmed?label=Security%20Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/last-commit/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?label=Last%20Updated&color=0D5F1A" />
 </p>
 
-<!-- Animated Activity Graph - Pulse Effect -->
-<div align="center">
-  <a href="https://github.com/Amr-Khaled-Ahmed">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact&bg_color=0d1117&color=0D5F1A&line=2D8F3A&point=ffffff&hide_border=true&area=true" alt="Activity Graph">
-  </a>
-</div>
+<!-- Activity Graph -->
+![Amr's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amr-Khaled-Ahmed&theme=github-compact&bg_color=0d1117&color=0D5F1A&line=2D8F3A&point=ffffff&hide_border=true&area=true)
 
-<!-- Animated Profile Trophies with Glowing Effect -->
+<!-- Profile Trophies -->
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=matrix&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Achievement Trophies" />
     </a>
 </p>
 
-<!-- Animated Cyber Security Shield - Custom SVG Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=4000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=435&lines=%F0%9F%94%92+SECURITY+SPECIALIST+%F0%9F%94%92;%F0%9F%9B%A1%EF%B8%8F+SYSTEM+PROTECTED+%F0%9F%9B%A1%EF%B8%8F" alt="Security Status"/>
-</div>
-
-<!-- Animated Hexadecimal Security ID -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&height=30&lines=ID%3A+0x5345437572697479+%7C+CID%3A+0xBF56AC91" alt="Security ID">
-</div>
-
 ## 🔐 Cybersecurity Arsenal
-
-<!-- Animated Arsenal Section Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&height=30&lines=Weapons+of+Digital+Defense" alt="Arsenal Header">
-</div>
 
 ```diff
 + Offensive Security & Red Team Operations:
@@ -105,23 +66,11 @@ $ ./access_granted.sh
 
 + Security Development:
 - Secure Coding Practices | C/C++ Security Tools | Vulnerability Assessment Tools | Custom Security Frameworks
-
-+ Binary Exploitation & Protocol Analysis:
-! Buffer Overflow | ROP Chains | Format String | Heap Exploitation | Protocol Vulnerability Assessment
 ```
-
-<!-- Animated Security Tools Showcase -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&size=18&duration=750&pause=500&color=0D5F1A&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Metasploit+%7C+Burp+Suite+%7C+Wireshark;IDA+Pro+%7C+Ghidra+%7C+x64dbg;John+the+Ripper+%7C+Hashcat+%7C+SQLmap;Volatility+%7C+Yara+%7C+OWASP+ZAP" alt="Security Tools">
-</div>
 
 ## 👨‍💻 Professional Profile
 
 I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerability assessment, exploit development, and secure systems architecture. My technical journey is driven by a commitment to creating safer digital environments through both offensive and defensive security approaches.
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+Security+Expertise;%F0%9F%94%AC+Research+Focus;%F0%9F%92%BB+Development+Skills;%F0%9F%8C%90+Community+Contribution;%F0%9F%8E%93+Continuous+Learning" alt="Professional Areas">
-</div>
 
 - 🛡️ **Expertise:** Advanced penetration testing, exploit development, malware analysis, and secure software engineering
 - 🔬 **Research Focus:** Zero-day vulnerability discovery, advanced persistence techniques, and threat intelligence
@@ -131,20 +80,12 @@ I'm Amr Khaled, a dedicated cybersecurity specialist with expertise in vulnerabi
 
 My career mission is to bridge the gap between theoretical security research and practical implementation, developing innovative solutions that preemptively address emerging cyber threats.
 
-<!-- Animated Matrix Code Rain Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=0D5F1A&center=true&vCenter=true&multiline=true&width=600&height=60&lines=01010011+01000101+01000011+01010101+01010010+01001001+01010100+01011001;01000011+01011001+01000010+01000101+01010010+01010011+01000101+01000011" alt="Binary Security Matrix">
-</div>
-
-<!-- Obfuscated C++ Code with Animation Effect -->
+<!-- Obfuscated C++ Code -->
 ## 🔒 CPP Code Sample
 ```cpp
 #include <iostream>
 #include <vector>
-#include <thread>
-#include <chrono>
 
-// Secure memory allocation routine with anti-debugging checks
 int main() {
     int *_[] = {new int(0), new int(1)};
     int **__ = &_;
@@ -153,24 +94,13 @@ int main() {
     char ____ = 0;
     int _____ = 72;
     
-    // Anti-debugging routine
-    volatile bool _______debug = false;
-    #ifdef _WIN32
-    if (IsDebuggerPresent()) _______debug = true;
-    #endif
-    
-    // Security fingerprint verification
     for(auto ______ : ___) {
         ____ = (_____ - ______) ^ **__[0] ^ **__[**__[0]];
         std::cout << (____ ? ____ : '!');
         _____ = (_____ * 1664525 + 1013904223) % 127;
         if (_____ < 32) _____ += 32;
-        
-        // Slow visualization effect for demo
-        std::this_thread::sleep_for(std::chrono::milliseconds(50));
     }
     
-    // Secure memory cleanup
     for(auto & _______ : _)
         delete _______;
     
@@ -178,36 +108,27 @@ int main() {
 }
 ```
 
-<!-- Animated Security Operations Terminal with Live Typing Effect -->
+<!-- Security Operations Terminal -->
 ## Security Operations Terminal 💻
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=24&duration=500&pause=500&color=2D8F3A&center=true&vCenter=true&width=500&height=100&lines=sudo+nmap+-sS+-sV+-A+--script+vuln+target.com;binwalk+-e+--dd+'.*'+suspicious.bin;volatility+-f+memory.dmp+pstree;sudo+responder+-I+eth0+-wrf;hashcat+-m+1000+hashes.txt+rockyou.txt;wireshark+-i+eth0+-f+'port+443';strace+-p+$(pidof+malware);ltrace+-p+$(pidof+suspicious);./exploit+--target=192.168.1.1+--payload=reverse_shell" alt="Security Terminal Commands" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=24&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=500&lines=sudo+nmap+-sS+-sV+-A+--script+vuln+target.com;binwalk+-e+--dd+'.*'+suspicious.bin;volatility+-f+memory.dmp+pstree;sudo+responder+-I+eth0+-wrf;hashcat+-m+1000+hashes.txt+rockyou.txt;wireshark+-i+eth0+-f+'port+443';strace+-p+$(pidof+malware);ltrace+-p+$(pidof+suspicious);./exploit+--target=192.168.1.1+--payload=reverse_shell" alt="Security Terminal Commands" />
 </div>
 
-<!-- Animated Live Terminal Session -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=500&duration=750&pause=100&color=2D8F3A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%23+Executing+security+scan+on+target...;%5B%2B%5D+Initiating+port+scan...;%5B%2B%5D+Port+22%3A+SSH+|+Port+80%3A+HTTP+|+Port+443%3A+HTTPS;%5B%2B%5D+Vulnerability+assessment+complete.;%5B%2B%5D+Security+report+generated!" alt="Live Terminal Session">
-</div>
-
-<!-- GitHub Skyline with Animation -->
+<!-- GitHub Skyline -->
 <div align="center">
   <a href="https://skyline.github.com/Amr-Khaled-Ahmed/2024" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8F%99%EF%B8%8F_View_My-GitHub_Skyline_3D_Contribution_Graph-%230D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
+    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline_3D_Contribution_Graph-0D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
   </a>
 </div>
 
-<!-- Enhanced Contribution Snake with Glow Effect -->
+<!-- Contribution Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ## 🛠️ Technical Arsenal
 
-<!-- Animated Programming & Security Languages Section -->
+<!-- Programming & Security Languages -->
 <div align="center">
   <h3>🔄 Programming & Security Languages</h3>
   <table>
@@ -251,7 +172,7 @@ int main() {
     </tr>
   </table>
 
-  <!-- Web Development Stack with Hover Effect -->
+  <!-- Web Development Stack -->
   <h3>🌐 Web Development Stack</h3>
   <table>
     <tr>
@@ -282,7 +203,7 @@ int main() {
     </tr>
   </table>
 
-  <!-- Security Operations Environment with Animated Border -->
+  <!-- Security Operations Environment -->
   <h3>🖥️ Security Operations Environment</h3>
   <table>
     <tr>
@@ -318,14 +239,7 @@ int main() {
   </table>
 </div>
 
-<!-- Animated Cyber Pulse Bar -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=0D5F1A&center=true&vCenter=true&repeat=false&width=500&height=30&lines=Cybersecurity+Pulse+Monitor" alt="Section Divider">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=500&pause=150&color=0D5F1A&center=true&vCenter=true&width=500&height=35&lines=▃▃▄▂▇▂▃▄▅▃▅▄█▃▄▇▂▃" alt="Pulse Monitor Effect">
-</div>
-
-<!-- Featured Security Projects with Animated Border -->
+<!-- Featured Security Projects -->
 <h3>🚀 Featured Security Projects</h3>
 
 <div align="center">
@@ -337,14 +251,9 @@ int main() {
   </a>
 </div>
 
-<!-- Animated Live Security Feed Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=24&duration=750&pause=500&color=0D5F1A&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%5B+LIVE+SECURITY+FEED+%5D;%5B+Monitoring+Network+Traffic+%5D;%5B+Analyzing+Threat+Intelligence+%5D;%5B+System+Integrity+Check:+PASSED+%5D;%5B+Perimeter+Defense:+ACTIVE+%5D" alt="Live Security Feed">
-</div>
-
 ## 📊 Security Analytics Dashboard
 
-<!-- Enhanced GitHub Stats Section with Animation -->
+<!-- GitHub Stats Section -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&rank_icon=github&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&border_radius=10" alt="Security Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&border_radius=10&exclude_repo=dotfiles,configs" alt="Language Arsenal" />
@@ -354,18 +263,13 @@ int main() {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff&border_radius=10" alt="Consistency Metrics" />
 </div>
 
-<!-- Animated Loading Bar for Security Skills -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=500&height=30&lines=Network+Penetration+Testing+%5B████████████████████%5D+100%25;Malware+Analysis+%5B██████████████████░░%5D+90%25;Binary+Exploitation+%5B█████████████████░░░%5D+85%25;Secure+Coding+Practices+%5B████████████████████%5D+100%25" alt="Skill Progress Bars">
-</div>
-
-<!-- Animated Contribution Calendar -->
+<!-- Contribution Calendar -->
 <h3>📅 Security Development Timeline</h3>
 <div align="center">
   <img src="https://ghchart.rshah.org/0D5F1A/Amr-Khaled-Ahmed" alt="Security Contribution Timeline" />
 </div>
 
-<!-- Github Profile Summary Cards with Animation Effect -->
+<!-- GitHub Status Dashboard -->
 <h3>🔥 Security Development Analytics</h3>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amr-Khaled-Ahmed&theme=github_dark&utcOffset=8" alt="Activity Timeline" />
@@ -377,46 +281,91 @@ int main() {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Development Metrics" />
 </div>
 
-<!-- Animated Cyber Security Radar -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=500&color=0D5F1A&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Scanning+perimeter...;Analyzing+defense+systems...;Security+posture+assessment...;Result%3A+SECURE+%E2%9C%85" alt="Security Radar">
-</div>
-
-<!-- Contribution Analysis with Pulse Effect -->
+<!-- Contribution Analysis -->
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Project Contributions" />
 </div>
 
-<!-- Animated Security Metrics Dashboard -->
+<!-- Security Metrics Dashboard -->
 <div align="center">
   <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Security%20Issues%20Resolved" alt="Security Issues Resolved" />
   <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0D5F1A&label=Security%20Endorsements" alt="Security Endorsements" />
   <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Security%20Development%20Activity" alt="Security Development Activity" />
 </div>
 
-<!-- Animated Binary Background Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&duration=5000&pause=1000&color=0D5F1A&center=true&vCenter=true&multiline=true&width=600&height=140&lines=01001110+01100101+01110110+01100101+01110010+00100000+01110100+01110010+01110101+01110011+01110100+00101100;01100001+01101100+01110111+01100001+01111001+01110011+00100000+01110110+01100101+01110010+01101001+01100110+01111001+00101110;01010011+01100101+01100011+01110101+01110010+01101001+01110100+01111001+00100000+01101001+01110011+00100000+01100001+00100000;01101101+01101001+01101110+01100100+01110011+01100101+01110100+00101100+00100000+01101110+01101111+01110100+00100000+01100001+00100000+01110000+01110010+01101111+01100100+01110101+01100011+01110100+00101110" alt="Binary Background Effect">
-</div>
-
-<!-- Security Philosophy with Typewriter Effect -->
+<!-- Security Philosophy -->
 <h3>💭 Security Philosophy</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&weight=500&size=20&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=60&lines=Security+is+not+a+product%2C+but+a+process+and+a+mindset.;It's+about+understanding+the+adversary+and+building;systems+that+remain+resilient+even+when+components+fail." alt="Security Philosophy">
+  <blockquote>
+    "Security is not a product, but a process and a mindset. It's about understanding the adversary and building systems that remain resilient even when components fail."
+  </blockquote>
 </div>
 
-<!-- Animated Network Connection Map -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=30&lines=GLOBAL+SECURITY+NETWORK+CONNECTIONS" alt="Network Connection Header">
-</div>
-
-<!-- Comprehensive Security Portfolio with Animation -->
+<!-- Comprehensive Security Portfolio -->
 <div align="center">
   <a href="https://github.com/Amr-Khaled-Ahmed">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Khaled-Ahmed&theme=github_dark" width="100%" />
   </a>
 </div>
 
-<!-- Animated Security System Status -->
+## 🌐 Professional Network
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=25&duration=2000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=600&height=70&lines=System+Status%3A+SECURE;Defense+Perimeter%3A+ACTIVE;Threat+Level%3A+MINIMAL
+  <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D5F1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D5F1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-0D5F1A?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://amr-khaled-ahmed.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D5F1A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:amrkhaledv2171516@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+  </a>
+</div>
+
+<!-- Digital Circuit Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Circuit Animation" />
+</div>
+
+<!-- Security Binary Message -->
+<div align="center">
+  <h3 style="color: #0D5F1A;">
+    <span style="color: #0D5F1A;">
+      <font color="#0D5F1A">
+        01000100 01101111 01101110 00100111 01110100 00100000 01101100 01101111 01101111 01101011 00100000 01100110 01101111 01110010 00100000 01101101 01100101 00100000 01011010 01100101 01110010 01101111 01000001 01100011 01100011 01100101 01110011 01110011
+      </font>
+    </span>
+  </h3>
+</div>
+
+<!-- Arabic Quote -->
+<div align="center">
+  <h3>
+    وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
+    أُبايعُ من لا يَشرَفُ المالُ كَفَّهُ
+  </h3>
+</div>
+
+<!-- Global Visitor Map -->
+<div align="center">
+  <h3>Global Security Network</h3>
+  <img src="https://profile-counter.glitch.me/{Amr-Khaled-Ahmed}/count.svg" alt="Security Network Connections" />
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
