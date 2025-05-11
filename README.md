@@ -218,29 +218,29 @@ int main() {
   </table>
 
   <!-- Web Development Stack with Animated Icons -->
-
+<div>
 ### 🌐 Web Development Stack
 <table>
   <!-- Row 1 - Core Technologies -->
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="70" height="70" alt="HTML5"/>
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" height="70" alt="HTML5"/>
       <br>HTML5
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="70" height="70" alt="CSS3"/>
+      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" height="70" alt="CSS3"/>
       <br>CSS3
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="70" height="70" alt="JavaScript"/>
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" height="70" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70" height="70" alt="Python"/>
+      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" height="70" alt="Python"/>
       <br>Python
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="70" height="70" alt="Bootstrap"/>
+      <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" height="70" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
   </tr>
@@ -248,49 +248,27 @@ int main() {
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="70" height="70" alt="Django"/>
+      <img src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" width="70" height="70" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="70" height="70" alt="TailwindCSS"/>
+      <img src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZR/giphy.gif" width="70" height="70" alt="TailwindCSS"/>
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70" height="70" alt="MySQL"/>
+      <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="70" height="70" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLServer.svg" width="70" height="70" alt="SQL Server"/>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="70" height="70" alt="SQL Server"/>
       <br>SQL Server
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="70" height="70" alt="Git"/>
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" height="70" alt="Git"/>
       <br>Git
     </td>
   </tr>
 </table>
-  <!-- Security Operations Environment -->
-  <h3>🖥️ Security Operations Environment</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux"/>
-        <br>Kali Linux
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="65" height="65" alt="Debian"/>
-        <br>Debian
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" alt="Git"/>
-        <br>Git
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
-        <br>Linux
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- Animated Divider -->
