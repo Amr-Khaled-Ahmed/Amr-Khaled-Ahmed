@@ -249,6 +249,21 @@ int main() {
       </td>
       <td colspan="5"></td>
     </tr>
+    <tr>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" height="70" alt="CSS3"/>
+    <br>CSS3
+  </td>
+  <td align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" height="70" alt="HTML5"/>
+    <br>HTML5
+  </td>
+  <td align="center">
+    <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" width="65" height="65" alt="Bootstrap"/>
+    <br>Bootstrap
+  </td>
+  <td colspan="2"></td>
+</tr>
   </table>
 
   <!-- Security Operations Environment -->
