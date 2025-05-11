@@ -220,28 +220,27 @@ int main() {
   <!-- Web Development Stack with Animated Icons -->
 
 ### 🌐 Web Development Stack
-
 <table>
   <!-- Row 1 - Core Technologies -->
   <tr>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="70" height="70" alt="HTML5"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="70" height="70" alt="HTML5"/>
       <br>HTML5
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="70" height="70" alt="CSS3"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="70" height="70" alt="CSS3"/>
       <br>CSS3
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="70" height="70" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="70" height="70" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="70" height="70" alt="Python"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="70" height="70" alt="Python"/>
       <br>Python
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="70" height="70" alt="Bootstrap"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="70" height="70" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
   </tr>
@@ -249,28 +248,27 @@ int main() {
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="70" height="70" alt="Django"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" width="70" height="70" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="70" height="70" alt="TailwindCSS"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="70" height="70" alt="TailwindCSS"/>
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="70" height="70" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70" height="70" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLServer.svg" width="70" height="70" alt="SQL Server"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLServer.svg" width="70" height="70" alt="SQL Server"/>
       <br>SQL Server
     </td>
     <td align="center">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="70" height="70" alt="Git"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="70" height="70" alt="Git"/>
       <br>Git
     </td>
   </tr>
 </table>
-
   <!-- Security Operations Environment -->
   <h3>🖥️ Security Operations Environment</h3>
   <table>
