@@ -218,10 +218,10 @@ int main() {
   </table>
 
   <!-- Web Development Stack with Animated Icons -->
-  ### 🌐 Web Development Stack
+ ### 🌐 Web Development Stack
 
 <table>
-  <!-- Row 1 -->
+  <!-- Row 1 - Core Web Technologies -->
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" height="70" alt="HTML5"/>
@@ -244,16 +244,9 @@ int main() {
       <br>Bootstrap
     </td>
   </tr>
-  <!-- Row 2 -->
+  
+  <!-- Row 2 - Frameworks & Databases -->
   <tr>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="Microsoft SQL"/>
-      <br>MS SQL
-    </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
       <br>Django
@@ -263,7 +256,15 @@ int main() {
       <br>Tailwind
     </td>
     <td align="center">
-      <!-- Empty or add another tech -->
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="Microsoft SQL"/>
+      <br>MS SQL
+    </td>
+    <td align="center">
+      <!-- Empty for future additions -->
     </td>
   </tr>
 </table>
