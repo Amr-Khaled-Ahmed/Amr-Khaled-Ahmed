@@ -252,11 +252,11 @@ int main() {
       <br>Django
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZR/giphy.gif" width="70" height="70" alt="TailwindCSS"/>
+      <img src="https://media4.giphy.com/media/MBVemoUwAIqgisGpPc/giphy.gif" width="70" height="70" alt="TailwindCSS"/>
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="70" height="70" alt="MySQL"/>
+      <img src="https://media.giphy.com/media/sVctRM1zoHqcM/giphy.gif" width="70" height="70" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
