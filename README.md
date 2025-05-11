@@ -218,29 +218,30 @@ int main() {
   </table>
 
   <!-- Web Development Stack with Animated Icons -->
+
 ### 🌐 Web Development Stack
 
 <table>
   <!-- Row 1 - Core Technologies -->
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" height="70" alt="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="65" height="65" alt="HTML5"/>
       <br>HTML5
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" height="70" alt="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="65" height="65" alt="CSS3"/>
       <br>CSS3
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70" height="70" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript"/>
       <br>JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="65" height="65" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="65" height="65" alt="Python"/>
       <br>Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="65" height="65" alt="Bootstrap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="65" height="65" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
   </tr>
@@ -248,23 +249,23 @@ int main() {
   <!-- Row 2 - Frameworks & Databases -->
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="65" height="65" alt="Django"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="65" height="65" alt="Django"/>
       <br>Django
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="65" height="65" alt="TailwindCSS"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="65" height="65" alt="TailwindCSS"/>
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="65" height="65" alt="SQL Server"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="65" height="65" alt="SQL Server"/>
       <br>SQL Server
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-2d40cd0d50a0.gif" width="70" height="70" alt="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="65" height="65" alt="Git"/>
       <br>Git
     </td>
   </tr>
