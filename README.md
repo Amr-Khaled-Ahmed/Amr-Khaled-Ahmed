@@ -195,10 +195,25 @@ int main() {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Bash"/>
         <br>Bash
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Assembly" width="65" height="65" />
         <br>Assembly
       </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="65" height="65" alt="PowerShell"/>
+        <br>PowerShell
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65" height="65" alt="Batch Script"/>
+        <br>Batch Script
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="65" height="65" alt="QT"/>
+        <br>QT
+      </td>
+      <td colspan="2"></td>
     </tr>
   </table>
 
@@ -215,8 +230,8 @@ int main() {
         <br>CSS3
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
       </td>
       <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -231,6 +246,13 @@ int main() {
         <br>Tailwind
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="65" height="65" alt="Microsoft SQL"/>
+        <br>Microsoft SQL
+      </td>
+      <td colspan="5"></td>
+    </tr>
   </table>
 
   <!-- Security Operations Environment -->
@@ -242,12 +264,12 @@ int main() {
         <br>Kali Linux
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
+        <img src="https://parrotsec.org/images/logo.png" width="65" height="65" alt="Parrot OS"/>
+        <br>Parrot OS
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="65" height="65" alt="Debian"/>
+        <br>Debian
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" alt="Git"/>
@@ -258,8 +280,8 @@ int main() {
         <br>Nginx
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
+        <br>Linux
       </td>
     </tr>
   </table>
