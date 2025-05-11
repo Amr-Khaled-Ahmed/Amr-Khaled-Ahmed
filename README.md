@@ -230,10 +230,6 @@ int main() {
         <br>CSS3
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br>MySQL
       </td>
@@ -264,20 +260,12 @@ int main() {
         <br>Kali Linux
       </td>
       <td align="center">
-        <img src="https://parrotsec.org/images/logo.png" width="65" height="65" alt="Parrot OS"/>
-        <br>Parrot OS
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="65" height="65" alt="Debian"/>
         <br>Debian
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" alt="Git"/>
         <br>Git
-      </td>
-      <td align="center">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-        <br>Nginx
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
