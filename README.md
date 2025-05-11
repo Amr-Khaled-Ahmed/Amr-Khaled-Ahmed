@@ -218,7 +218,6 @@ int main() {
   </table>
 
   <!-- Web Development Stack with Animated Icons -->
-<div>
 ### 🌐 Web Development Stack
 <table>
   <!-- Row 1 - Core Technologies -->
@@ -252,11 +251,11 @@ int main() {
       <br>Django
     </td>
     <td align="center">
-      <img src="https://media4.giphy.com/media/MBVemoUwAIqgisGpPc/giphy.gif" width="70" height="70" alt="TailwindCSS"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="70" height="70" alt="TailwindCSS"/>
       <br>Tailwind
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/sVctRM1zoHqcM/giphy.gif" width="70" height="70" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="70" height="70" alt="MySQL"/>
       <br>MySQL
     </td>
     <td align="center">
