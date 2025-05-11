@@ -271,7 +271,7 @@ int main() {
 </div>
 
 <!-- Security Operations Environment -->
-<div>
+<div align="center">
   <h3>🖥️ Security Operations Environment</h3>
   <table>
     <tr>
