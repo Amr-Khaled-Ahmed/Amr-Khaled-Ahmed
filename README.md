@@ -270,6 +270,32 @@ int main() {
 </table>
 </div>
 
+<!-- Security Operations Environment -->
+<div>
+  <h3>🖥️ Security Operations Environment</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="65" height="65" alt="Kali Linux" />
+        <br /><strong>Kali Linux</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="65" height="65" alt="Debian" />
+        <br /><strong>Debian</strong>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65" alt="Git" />
+        <br /><strong>Git</strong>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux" />
+        <br /><strong>Linux</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
