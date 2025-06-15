@@ -170,7 +170,7 @@ My career mission is to bridge the gap between theoretical security research and
     </tr>
     <tr>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Assembly" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png" alt="Assembly" width="65" height="65" />
         <br>Assembly
       </td>
       <td align="center">
