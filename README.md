@@ -148,7 +148,7 @@ My career mission is to bridge the gap between theoretical security research and
         <br>C++
       </td>
       <td align="center">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+        <img src="https://github.com/polyglotprog/c-logo/blob/main/public/assets/images/c-logo.png" alt="C" width="65" height="65" />
         <br>C
       </td>
       <td align="center">
