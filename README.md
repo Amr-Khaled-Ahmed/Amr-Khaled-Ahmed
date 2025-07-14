@@ -12,11 +12,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="Your Image Badge" />
-  </a>
-</p>
+<!-- TryHackMe Badge -->
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="Your Image Badge" />
+</div>
 
 <!-- Visual Matrix Rain Effect -->
 <div align="center">
