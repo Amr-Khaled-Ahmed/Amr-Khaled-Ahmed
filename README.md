@@ -13,9 +13,13 @@
 </p>
 
 <!-- TryHackMe Badge -->
+<!-- THM Badge (Working on GitHub) -->
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="Your Image Badge" />
+  <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="TryHackMe Badge" />
+  </a>
 </div>
+
 
 <!-- Visual Matrix Rain Effect -->
 <div align="center">
