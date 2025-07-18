@@ -16,7 +16,7 @@
 <!-- THM Badge (Working on GitHub) -->
 <div align="center">
   <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ZeroAccess121.png" alt="Your Image Badge" />
   </a>
 </div>
 
