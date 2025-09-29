@@ -8,7 +8,7 @@
 <!-- Animated Typing Text with Advanced Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&height=100&lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Engineer+%26+Architect;Reverse+Engineer+%7C+Systems+Programmer;Offensive+Security+Specialist;Compiler+%26+Tools+Developer;Low-Level+Programming+Expert;Assembly+%26+Binary+Analysis+Ninja;Malware+Research+%26+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&height=100&lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Engineer;Reverse+Engineer+%7C+Systems+Programmer;Offensive+Security+Specialist;Compiler+%26+Tools+Developer;Low-Level+Programming+Expert;Assembly+%26+Binary+Analysis+Ninja;Malware+Research+%26+Development" alt="Typing SVG" />
   </a>
 </p>
 
