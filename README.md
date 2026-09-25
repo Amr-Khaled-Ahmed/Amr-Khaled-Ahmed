@@ -57,19 +57,6 @@ $ cat /etc/passwd | grep contact
 
 ## 🔬 Cybersecurity Engineering Arsenal
 
-<div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Engineering Statistics" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0A4D68&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Technical Arsenal" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ```diff
 + Reverse Engineering & Binary Exploitation:
 ! IDA Pro | Ghidra | x64dbg | dnSpy | JADX | Assembly (x86/x64/ARM) | Exploit Development | PwnTools
@@ -110,99 +97,16 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
 
 <div align="center">
   <h3>⚡ Systems Programming & Low-Level Languages</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
-        <br>C
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png" alt="Assembly" width="65" height="65" />
-        <br>Assembly (x86/x64/ARM)
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Bash"/>
-        <br>Bash
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="65" height="65" alt="PowerShell"/>
-        <br>PowerShell
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript"/>
-        <br>JavaScript (Web/Tools)
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,powershell,js&theme=dark" alt="Languages" />
+  <br><sub>Assembly (x86/x64/ARM) — not on skillicons, but core to the toolkit</sub>
 
   <h3>🖥️ Security Engineering Environment</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" width="65" height="65" alt="Kali Linux" />
-        <br /><strong>Kali Linux</strong>
-      </td>
-      <td align="center">
-        <img src="https://parrotsec.org/docs/img/parrot-logo.svg" width="65" height="65" alt="Parrot OS" />
-        <br /><strong>Parrot OS</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" />
-        <br /><strong>Git</strong>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker" />
-        <br /><strong>Docker</strong>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="65" height="65" alt="Windows" />
-        <br /><strong>Windows 10/11</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=kali,git,docker,windows,linux&theme=dark" alt="Environment" />
+  <br><sub>Kali Linux · Parrot OS · Git · Docker · Windows 10/11</sub>
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
-  </a>
-  <a href="https://github.com/Amr-Khaled-Ahmed/Malware-analysis-work-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
-  </a>
-  <a href="https://github.com/Muhabzz/Implementing-VPN-Solutions-with-FortiGate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhabzz&repo=Implementing-VPN-Solutions-with-FortiGate&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
-  </a>
-</div>
-
-## 📊 Engineering Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0A4D68&ring=00A8CC&fire=00A8CC&currStreakNum=ffffff&sideNums=0A4D68&currStreakLabel=00A8CC&sideLabels=0A4D68&dates=ffffff&border_radius=10" alt="Engineering Consistency Metrics" />
-</div>
-
-<h3>📅 Contribution Timeline</h3>
-<div align="center">
-  <img src="https://ghchart.rshah.org/0A4D68/Amr-Khaled-Ahmed" alt="Engineering Contribution Timeline" />
 </div>
 
 <div align="center">
@@ -226,9 +130,10 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
   <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-0A4D68?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://medium.com/@amr171516" target="_blank">
+  <!-- Add your Medium badge here once you give me your handle:
+  <a href="https://medium.com/@YOUR_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Medium-0A4D68?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
