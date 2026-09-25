@@ -1,32 +1,21 @@
-# <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<!-- Animated Name & Title Banner -->
-<!--<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=200&section=header&text=Amr%20Khaled&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20Reverse%20Engineer%20|%20Systems%20Programmer&descAlignY=60&descAlign=50" width="100%"/>
-</div>-->
-
-<!-- Animated Typing Text with Advanced Cybersecurity Focus -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0D5F1A&center=true&vCenter=true&width=700&height=100&lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Engineer;Reverse+Engineer+%7C+Systems+Programmer;Offensive+Security+Specialist;Compiler+%26+Tools+Developer;Low-Level+Programming+Expert;Assembly+%26+Binary+Analysis+Ninja;Malware+Research+%26+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=0A4D68&center=true&vCenter=true&width=700&height=100&lines=Hello+World%2C+I'm+Amr+Khaled;Cybersecurity+Engineer;Reverse+Engineer+%7C+Systems+Programmer;Offensive+Security+Specialist;Compiler+%26+Tools+Developer;Low-Level+Programming+Expert;Assembly+%26+Binary+Analysis+Ninja;Malware+Research+%26+Development" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- TryHackMe Badge -->
-<!-- THM Badge (Working on GitHub) -->
 <div align="center">
   <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/HilmJahim.png" alt="Your Image Badge" />
-
+    <img src="https://tryhackme-badges.s3.amazonaws.com/HilmJahim.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
-<!-- Visual Matrix Rain Effect -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
-<!-- Terminal-style Introduction with Advanced Engineering Focus -->
 <div align="left">
 
 ```bash
@@ -38,7 +27,6 @@ $ uname -a
 > CyberOS 6.2.0-kali1-amd64
 $ ps -aux | grep active-research
 > ACTIVE: Custom Security Tools | Binary Exploitation | Reverse Engineering Frameworks | Advanced Persistent Threats
-$ cat /proc/version | grep specialty
 $ echo $PATH | tr ':' '\n' | grep -E "(reverse|tools|compiler)"
 > /opt/reverse-engineering-suite/bin
 > /opt/custom-security-tools/bin
@@ -49,61 +37,34 @@ $ cat /etc/passwd | grep contact
 
 </div>
 
-<!-- Enhanced Security Badge Section with Advanced Specializations -->
 <div align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Engineer-Cybersecurity%20Systems-0D5F1A?style=for-the-badge&logo=security&logoColor=white" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Intermediate-Reverse%20Engineering-0D5F1A?style=for-the-badge&logo=microscope&logoColor=white" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Developer-Security%20Tools,%20web%20Development-0D5F1A?style=for-the-badge&logo=tools&logoColor=white" />
-  </a>
-   <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Developer-Full%20Stack%20Development-0D5F1A?style=for-the-badge&logo=tools&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Engineer-Cybersecurity%20Systems-0A4D68?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intermediate-Reverse%20Engineering-0A4D68?style=for-the-badge&logo=microscope&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-Security%20Tools%20%26%20Web-0A4D68?style=for-the-badge&logo=tools&logoColor=white" />
 </div>
 
 <div align="center">
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Expert-Assembly%20Programming-0D5F1A?style=for-the-badge&logo=atom&logoColor=white" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Researcher-Offensive%20Security-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
-    <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Researcher-Security%20Researcher-0D5F1A?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
-  <a href="#" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Engineer-Malware%20Research-0D5F1A?style=for-the-badge&logo=virustotal&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Expert-Assembly%20Programming-0A4D68?style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Researcher-Offensive%20Security-0A4D68?style=for-the-badge&logo=hackerone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Engineer-Malware%20Research-0A4D68?style=for-the-badge&logo=virustotal&logoColor=white" />
 </div>
 
-<!-- Profile Metrics with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20visits&color=0D5F1A&style=flat" alt="Visit Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Amr-Khaled-Ahmed&label=Profile%20visits&color=0A4D68&style=flat" alt="Visit Counter" />
   <img src="https://img.shields.io/github/followers/Amr-Khaled-Ahmed?label=Engineering%20Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/last-commit/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?label=Last%20Updated&color=0D5F1A" />
+  <img src="https://img.shields.io/github/last-commit/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?label=Last%20Updated&color=0A4D68" />
 </p>
 
-<!-- Profile Trophies with Animation -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amr-Khaled-Ahmed&theme=matrix&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" alt="Achievement Trophies" />
-  </a>
-</p>
-
-## 🔬 Advanced Cybersecurity Engineering Arsenal
+## 🔬 Cybersecurity Engineering Arsenal
 
 <div align="center">
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Engineering Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Amr-Khaled-Ahmed&show_icons=true&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Engineering Statistics" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Technical Arsenal" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Khaled-Ahmed&layout=compact&theme=dark&title_color=0A4D68&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Technical Arsenal" />
       </td>
     </tr>
   </table>
@@ -111,55 +72,42 @@ $ cat /etc/passwd | grep contact
 
 ```diff
 + Reverse Engineering & Binary Exploitation:
-! IDA Pro | Ghidra | x64dbg | Binary Analysis | Assembly (x86/x64) | Exploit Development | PwnTools
+! IDA Pro | Ghidra | x64dbg | dnSpy | JADX | Assembly (x86/x64/ARM) | Exploit Development | PwnTools
 
-+ Malware Development:
-! Basic Malware Analysis | Simple Payloads | Static & Dynamic Analysis
++ Malware Analysis & Anti-Analysis:
+! Static & Dynamic Analysis | PEStudio | DIE | FakeNet-NG | Sysinternals Suite | Anti-Debug Bypass | Custom YARA Rules
 
-+ Cybersecurity Engineering:
-! Security Tool Development | Vulnerability Assessment | Penetration Testing | Automation Scripts
++ SOC & Defensive Security:
+! SIEM Fundamentals | Phishing Email Analysis | Digital Forensics | Endpoint & Network Monitoring | Wireshark | tcpdump | Snort
 
-+ Systems Architecture:
-- Basic OS Internals | Kernel Concepts | Virtualization | Windows/Linux Security
++ Network Security & Infrastructure:
+! FortiGate 7.6 | FortiManager | IDS/IPS | VPNs (IPsec/SSL) | CCNA (Routing, Switching, OSPF, VLANs)
+
++ Offensive Security & Recon:
+! Kali Linux | Burp Suite | Metasploit | Nessus | Nmap | Amass | Shodan | theHarvester
 ```
 
-## 👨‍💻 Professional Engineering Profile
+## 👨‍💻 Professional Profile
 
-I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering, binary exploitation, and assembly. I am a intermediate in malware development and systems architecture. My technical focus is on security engineering, tool development, and vulnerability research.
+I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse engineering, malware analysis, and SOC/defensive security. I compete regularly in CTFs (reverse engineering, malware analysis, network forensics) and publish writeups on Medium, alongside a growing foundation in networking and firewalls (CCNA, FortiGate NSE4).
 
 - 🔬 **Core Expertise:** Reverse engineering, binary exploitation, assembly programming
+- 🛡️ **Defensive Focus:** SOC fundamentals, SIEM, phishing analysis, digital forensics, incident response
 - 🛠️ **Engineering Focus:** Security tool creation, vulnerability assessment, automation scripting
-- 💻 **Systems Programming:** Beginner in systems architecture, OS internals, and kernel concepts
-- 🎯 **Research Areas:** Malware analysis (beginner), exploit development, binary analysis
-- 🔐 **Offensive Security:** Penetration testing, basic exploit techniques
+- 🎯 **Research Areas:** Malware analysis, exploit development, binary analysis
+- 🔐 **Offensive Security:** Penetration testing, network security, exploit techniques
 
-<!-- Animated Security Timeline -->
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated-line">
 </div>
 
-<!-- Advanced Security Operations Terminal -->
-## Advanced Security Engineering Terminal 💻
+## Security Engineering Terminal 💻
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=2D8F3A&center=true&vCenter=true&width=700&lines=objdump+-d+-M+intel+binary.exe+%7C+grep+-A5+main;radare2+-A+-q+-c+'pdf+@+main'+target.bin;gdb+-q+--batch+-ex+'disas+main'+./program;xxd+-l+256+suspicious.bin+%7C+head+-20;strings+-a+-t+x+malware.exe+%7C+grep+-i+key;ida64+-A+-S'custom_analysis.py'+sample.exe;ghidra_headless+/tmp+project+-import+binary.exe;volatility3+-f+memory.dump+windows.pstree;binwalk+--entropy+--signature+firmware.bin;./custom_tool+--analyze+--output=report.json" alt="Advanced Engineering Commands" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8CC&center=true&vCenter=true&width=700&lines=objdump+-d+-M+intel+binary.exe+%7C+grep+-A5+main;radare2+-A+-q+-c+'pdf+@+main'+target.bin;gdb+-q+--batch+-ex+'disas+main'+./program;xxd+-l+256+suspicious.bin+%7C+head+-20;strings+-a+-t+x+malware.exe+%7C+grep+-i+key;volatility3+-f+memory.dump+windows.pstree;binwalk+--entropy+--signature+firmware.bin" alt="Advanced Engineering Commands" />
 </div>
 
-<!-- Dynamic 3D Contribution -->
-<div align="center">
-  <a href="https://skyline.github.com/Amr-Khaled-Ahmed/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View_My-GitHub_Skyline_3D_Engineering_Graph-0D5F1A?style=for-the-badge&logo=github" alt="GitHub Skyline" />
-  </a>
-</div>
+## 🛠️ Technical Stack
 
-<div align="center">
-  <img alt="Skyline" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
-## 🛠️ Advanced Technical Engineering Stack
-
-<!-- Core Programming & Systems Languages -->
-<div align="center">
-<!-- Core Programming & Systems Languages -->
 <div align="center">
   <h3>⚡ Systems Programming & Low-Level Languages</h3>
   <table>
@@ -188,7 +136,7 @@ I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering,
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" height="65" alt="Bash"/>
-        <br>Bash 
+        <br>Bash
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="65" height="65" alt="PowerShell"/>
@@ -200,52 +148,7 @@ I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering,
       </td>
     </tr>
   </table>
-  <!-- Reverse Engineering & Analysis Tools -->
 
-  </table>
-
-<!-- Web Development Stack (Maintained for Full-Stack Capability) -->
-### 🌐 Web Development (Tool Interfaces & Dashboards)
-<table>
-  <tr>
-    <td align="center">
-        <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="65" height="65" alt="Django"/>
-        <br>Django
-      </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" height="70" alt="HTML5"/>
-      <br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" height="70" alt="CSS3"/>
-      <br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" height="70" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" height="70" alt="Bootstrap"/>
-      <br>Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" alt="React"/>
-      <br>React
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="70" height="70" alt="TailwindCSS"/>
-      <br>Tailwind
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" height="70" alt="PHP"/>
-      <br>PHP (Native)
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- Advanced Security Operations Environment -->
-<div align="center">
   <h3>🖥️ Security Engineering Environment</h3>
   <table>
     <tr>
@@ -273,106 +176,74 @@ I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering,
   </table>
 </div>
 
-<!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<!-- Featured Engineering Projects -->
-<h3>🚀 Featured Engineering & Security Projects</h3>
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Amr-Khaled-Ahmed/CyberSec-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=CyberSec-Toolkit&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
   </a>
   <a href="https://github.com/Amr-Khaled-Ahmed/Malware-analysis-work-shop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=dark&title_color=0D5F1A&icon_color=2D8F3A&text_color=ffffff&bg_color=0d1117&border_color=2D8F3A&border_radius=10" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amr-Khaled-Ahmed&repo=Malware-analysis-work-shop&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
+  </a>
+  <a href="https://github.com/Muhabzz/Implementing-VPN-Solutions-with-FortiGate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhabzz&repo=Implementing-VPN-Solutions-with-FortiGate&theme=dark&title_color=0A4D68&icon_color=00A8CC&text_color=ffffff&bg_color=0d1117&border_color=00A8CC&border_radius=10" />
   </a>
 </div>
 
-## 📊 Engineering Analytics Dashboard
+## 📊 Engineering Analytics
 
-<!-- Enhanced GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0D5F1A&ring=2D8F3A&fire=2D8F3A&currStreakNum=ffffff&sideNums=0D5F1A&currStreakLabel=2D8F3A&sideLabels=0D5F1A&dates=ffffff&border_radius=10" alt="Engineering Consistency Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr-Khaled-Ahmed&theme=dark&background=0d1117&stroke=0A4D68&ring=00A8CC&fire=00A8CC&currStreakNum=ffffff&sideNums=0A4D68&currStreakLabel=00A8CC&sideLabels=0A4D68&dates=ffffff&border_radius=10" alt="Engineering Consistency Metrics" />
 </div>
 
-<!-- Contribution Calendar with Glowing Effect -->
-<h3>📅 Security Engineering Development Timeline</h3>
+<h3>📅 Contribution Timeline</h3>
 <div align="center">
-  <img src="https://ghchart.rshah.org/0D5F1A/Amr-Khaled-Ahmed" alt="Engineering Contribution Timeline" />
-</div>
-
-<!-- GitHub Status Dashboard with Enhanced Visuals -->
-<h3>🔥 Security Engineering Analytics</h3>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amr-Khaled-Ahmed&theme=github_dark&utcOffset=8" alt="Development Activity Timeline" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Engineering Arsenal by Language" />
+  <img src="https://ghchart.rshah.org/0A4D68/Amr-Khaled-Ahmed" alt="Engineering Contribution Timeline" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Primary Engineering Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amr-Khaled-Ahmed&theme=github_dark" alt="Engineering Metrics" />
+  <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0A4D68&label=Issues%20Resolved" alt="Issues Resolved" />
+  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0A4D68&label=Recognition" alt="Recognition" />
+  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0A4D68&label=Development%20Activity" alt="Development Activity" />
 </div>
 
-<!-- Contribution Analysis with Enhanced Visual -->
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amr-Khaled-Ahmed&limit=5&theme=dark&title_color=0D5F1A&text_color=ffffff&bg_color=0d1117&combine_all_yearly_contributions=true" alt="Top Engineering Project Contributions" />
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- Enhanced Engineering Metrics Dashboard -->
-<div align="center">
-  <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Engineering%20Issues%20Resolved" alt="Engineering Issues Resolved" />
-  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0D5F1A&label=Engineering%20Recognition" alt="Engineering Recognition" />
-  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0D5F1A&label=Engineering%20Development%20Activity" alt="Engineering Development Activity" />
-</div>
-
-
-<!-- Comprehensive Engineering Portfolio with Enhanced Visuals -->
-<div align="center">
-  <a href="https://github.com/Amr-Khaled-Ahmed">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amr-Khaled-Ahmed&theme=github_dark" width="100%" />
-  </a>
-</div>
-
-
-## 🌐 Professional Engineering Network
+## 🌐 Professional Network
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amr-el-dahshan-843a11306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0D5F1A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A4D68?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Amr-Khaled-Ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D5F1A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0A4D68?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-0D5F1A?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-0A4D68?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
-  <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="blank">
-    <img src="https://img.shields.io/badge/Codeforces-0D5F1A?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+  <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-0A4D68?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+  </a>
+  <a href="https://medium.com/@amr171516" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-0A4D68?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </div>
 
 <div align="center">
   <a href="https://amr-khaled-ahmed.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Engineering_Portfolio-0D5F1A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A4D68?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:amrkhaledv2171516@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Engineering_Contact-0D5F1A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
+    <img src="https://img.shields.io/badge/Contact-0A4D68?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
   </a>
 </div>
 
-<!-- Animated Footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Engineering Binary Message with Animation -->
 <div align="center">
   <h3>
     <span>
@@ -383,7 +254,6 @@ I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering,
   </h3>
 </div>
 
-<!-- Arabic Quote with Stylized Text -->
 <div align="center">
   <h3 style="font-family: 'Arabic Typesetting', serif;">
     وإنْ مُتُّ لم أندمْ، وإن عِشتُ لم أُقمْ<br>
@@ -391,13 +261,6 @@ I'm Amr Khaled, a Cybersecurity Engineer with experience in reverse engineering,
   </h3>
 </div>
 
-
-
-<!-- Animated Footer with Enhanced Message -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D5F1A&height=150&section=footer&text=Engineer%20Security,%20Master%20Assembly,%20Build%20the%20Future&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68&height=150&section=footer&text=Engineer%20Security,%20Master%20Assembly,%20Build%20the%20Future&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>
-
-
-<!-- Animated Wave Effect -->
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"> -->
