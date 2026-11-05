@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/amrkhaled171516" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/HilmJahim.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amrkhaled171516.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
@@ -55,8 +55,35 @@ $ cat /etc/passwd | grep contact
   <img src="https://img.shields.io/github/last-commit/Amr-Khaled-Ahmed/Amr-Khaled-Ahmed?label=Last%20Updated&color=0A4D68" />
 </p>
 
-## 🔬 Skills
+---
 
+## 💻 Security Engineering Terminal
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8CC&center=true&vCenter=true&width=700&lines=objdump+-d+-M+intel+binary.exe+%7C+grep+-A5+main;radare2+-A+-q+-c+'pdf+@+main'+target.bin;gdb+-q+--batch+-ex+'disas+main'+./program;xxd+-l+256+suspicious.bin+%7C+head+-20;strings+-a+-t+x+malware.exe+%7C+grep+-i+key;volatility3+-f+memory.dump+windows.pstree;binwalk+--entropy+--signature+firmware.bin" alt="Advanced Engineering Commands" />
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+### ⚡ Programming
+<div align="left">
+  <img src="https://img.shields.io/badge/C-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bash-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerShell-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Assembly%20x86%2Fx64%2FARM-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Batch-0A4D68?style=flat-square" />
+</div>
+
+### 🔬 Reverse Engineering & Malware Analysis
 <div align="left">
   <img src="https://img.shields.io/badge/IDA%20Pro-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Ghidra-0A4D68?style=flat-square" />
@@ -64,100 +91,83 @@ $ cat /etc/passwd | grep contact
   <img src="https://img.shields.io/badge/dnSpy-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/JADX-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/PwnTools-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Assembly%20x86%2Fx64%2FARM-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploit%20Development-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Static%20Analysis-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dynamic%20Analysis-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Anti--Debug%20Bypass-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deobfuscation-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/PEStudio-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/DIE-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/FakeNet--NG-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Sysinternals%20Suite-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/YARA%20Rules-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Static%20%26%20Dynamic%20Analysis-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Anti--Analysis%20%26%20Debug%20Bypass-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deobfuscation-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploit%20Development-0A4D68?style=flat-square" />
+</div>
+
+### 🛡️ SOC & DFIR
+<div align="left">
   <img src="https://img.shields.io/badge/SIEM-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident%20Response-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Memory%20Forensics-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Phishing%20Analysis-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Threat%20Intelligence-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Endpoint%20Monitoring-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network%20Monitoring-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory%20Forensics-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Traffic%20Analysis-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Incident%20Response-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/tcpdump-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Snort-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/FortiGate%207.6-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/FortiManager-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/IDS%2FIPS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/VPN%20(IPsec%2FSSL)-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security%20Policy%20Design-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Hardening-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/tcpdump-0A4D68?style=flat-square" />
+</div>
+
+### 🌐 Networking & Firewalls
+<div align="left">
   <img src="https://img.shields.io/badge/CCNA-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/OSPF-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/EIGRP-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/NAT-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/VLANs-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/STP-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/QoS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/FortiGate%207.6-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/FortiManager-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Palo%20Alto-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/SD--WAN-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/VPN%20(IPsec%2FSSL)-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/System%20Hardening-0A4D68?style=flat-square" />
+</div>
+
+### 🎯 Offensive Security
+<div align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Metasploit-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Nessus-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Acunetix-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20App%20Testing-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Scanning-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Nmap-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Amass-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Shodan-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Recon--ng-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/theHarvester-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSINT%20Framework-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/C-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/PowerShell-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Batch-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20(RHEL)-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web%20App%20Testing-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Scanning-0A4D68?style=flat-square" />
+</div>
+
+### 🐧 Systems, Cloud & Dev Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Linux%20(Debian)-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux%20(RHEL)-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitLab-0A4D68?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-0A4D68?style=flat-square" />
-</div>
-
-## 👨‍💻 Professional Profile
-
-I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse engineering, malware analysis, and SOC/defensive security. I compete regularly in CTFs (reverse engineering, malware analysis, network forensics) and publish writeups on Medium, alongside a growing foundation in networking and firewalls (CCNA, FortiGate NSE4).
-
-- 🔬 **Core Expertise:** Reverse engineering, binary exploitation, assembly programming
-- 🛡️ **Defensive Focus:** SOC fundamentals, SIEM, phishing analysis, digital forensics, incident response
-- 🛠️ **Engineering Focus:** Security tool creation, vulnerability assessment, automation scripting
-- 🎯 **Research Areas:** Malware analysis, exploit development, binary analysis
-- 🔐 **Offensive Security:** Penetration testing, network security, exploit techniques
-
-## Security Engineering Terminal 💻
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00A8CC&center=true&vCenter=true&width=700&lines=objdump+-d+-M+intel+binary.exe+%7C+grep+-A5+main;radare2+-A+-q+-c+'pdf+@+main'+target.bin;gdb+-q+--batch+-ex+'disas+main'+./program;xxd+-l+256+suspicious.bin+%7C+head+-20;strings+-a+-t+x+malware.exe+%7C+grep+-i+key;volatility3+-f+memory.dump+windows.pstree;binwalk+--entropy+--signature+firmware.bin" alt="Advanced Engineering Commands" />
-</div>
-
-## 🛠️ Technical Stack
-
-<div align="center">
-  <h3>⚡ Systems Programming & Low-Level Languages</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,bash,powershell,js&theme=dark" alt="Languages" />
-  <br><sub>Assembly (x86/x64/ARM) — not on skillicons, but core to the toolkit</sub>
-
-  <h3>🖥️ Security Engineering Environment</h3>
-  <img src="https://skillicons.dev/icons?i=kali,git,docker,windows,linux&theme=dark" alt="Environment" />
-  <br><sub>Kali Linux · Parrot OS · Git · Docker · Windows 10/11</sub>
+  <img src="https://img.shields.io/badge/Fedora-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/SELinux-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/LVM-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/systemd-0A4D68?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firewalld-0A4D68?style=flat-square" />
 </div>
 
 <div align="center">
@@ -165,6 +175,8 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
   <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0A4D68&label=Recognition" alt="Recognition" />
   <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0A4D68&label=Development%20Activity" alt="Development Activity" />
 </div>
+
+---
 
 ## 🌐 Professional Network
 
@@ -181,7 +193,7 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
   <a href="https://codeforces.com/profile/Amr_El-Dahshan" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-0A4D68?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <!-- Add your Medium badge here once you give me your handle:
+  <!-- Add your Medium badge here once you have your handle:
   <a href="https://medium.com/@YOUR_HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/Medium-0A4D68?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a> -->
@@ -195,6 +207,8 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
     <img src="https://img.shields.io/badge/Contact-0A4D68?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact">
   </a>
 </div>
+
+---
 
 <div align="center">
   <h3>
@@ -216,3 +230,4 @@ I'm Amr Khaled, a Cybersecurity Engineer building a hands-on path across reverse
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A4D68&height=150&section=footer&text=Engineer%20Security,%20Master%20Assembly,%20Build%20the%20Future&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
 </div>
+</document_content>
