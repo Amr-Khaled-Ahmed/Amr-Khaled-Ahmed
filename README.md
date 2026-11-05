@@ -67,113 +67,48 @@ $ cat /etc/passwd | grep contact
 
 ## 🛠️ Technical Stack
 
-### ⚡ Programming
+### ⚡ Programming & Scripting
 <div align="left">
-  <img src="https://img.shields.io/badge/C-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Bash-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/PowerShell-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Assembly%20x86%2Fx64%2FARM-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Batch-0A4D68?style=flat-square" />
+  <code>C</code> <code>C++</code> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>HTML</code> <code>React</code> <code>SQL</code> <code>Assembly (x86/x64/ARM)</code> <code>Bash</code> <code>Shell Scripting</code> <code>PowerShell</code> <code>Batch</code>
 </div>
 
 ### 🔬 Reverse Engineering & Malware Analysis
 <div align="left">
-  <img src="https://img.shields.io/badge/IDA%20Pro-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ghidra-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/x64dbg-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/dnSpy-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/JADX-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/PwnTools-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/PEStudio-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/DIE-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/FakeNet--NG-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sysinternals%20Suite-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/YARA%20Rules-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Static%20%26%20Dynamic%20Analysis-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Anti--Analysis%20%26%20Debug%20Bypass-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deobfuscation-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Exploit%20Development-0A4D68?style=flat-square" />
+  <code>IDA Pro</code> <code>Ghidra</code> <code>x64dbg</code> <code>dnSpy</code> <code>JADX (Android)</code> <code>PwnTools</code> <code>PEStudio</code> <code>DIE</code> <code>FakeNet-NG</code> <code>Sysinternals Suite</code> <code>YARA Rules</code> <code>Static Analysis</code> <code>Dynamic Analysis</code> <code>Anti-Analysis Techniques</code> <code>Anti-Debug Bypass</code> <code>Binary Deobfuscation</code> <code>Kernel Debugging</code> <code>Exploit Development</code>
 </div>
 
-### 🛡️ SOC & DFIR
+### 🛡️ SOC, DFIR & Threat Detection
 <div align="left">
-  <img src="https://img.shields.io/badge/SIEM-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Incident%20Response-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital%20Forensics-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory%20Forensics-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Phishing%20Analysis-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threat%20Intelligence-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Snort-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/tcpdump-0A4D68?style=flat-square" />
+  <code>SIEM</code> <code>Incident Response</code> <code>Digital Forensics</code> <code>Memory Forensics</code> <code>Phishing Analysis</code> <code>Threat Intelligence</code> <code>Endpoint Monitoring</code> <code>Network Monitoring</code> <code>Traffic Analysis</code> <code>Wireshark</code> <code>tcpdump</code> <code>Snort</code>
 </div>
 
-### 🌐 Networking & Firewalls
+### 🌐 Networking
 <div align="left">
-  <img src="https://img.shields.io/badge/CCNA-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSPF-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/EIGRP-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/NAT-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/VLANs-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/STP-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/QoS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/FortiGate%207.6-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/FortiManager-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Palo%20Alto-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/SD--WAN-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/IDS%2FIPS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/VPN%20(IPsec%2FSSL)-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Hardening-0A4D68?style=flat-square" />
+  <code>CCNA 200-301</code> <code>TCP/IP</code> <code>Routing &amp; Switching</code> <code>OSPF</code> <code>EIGRP</code> <code>NAT</code> <code>VLANs</code> <code>STP</code> <code>WAN</code> <code>QoS</code> <code>SD-WAN</code>
 </div>
 
-### 🎯 Offensive Security
+### 🔥 Firewalls & Network Security
 <div align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nessus-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Acunetix-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Amass-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Shodan-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Recon--ng-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/theHarvester-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web%20App%20Testing-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Scanning-0A4D68?style=flat-square" />
+  <code>FortiGate 7.6</code> <code>FortiManager</code> <code>Palo Alto Firewalls</code> <code>IDS/IPS</code> <code>VPN (IPsec/SSL)</code> <code>Threat Protection</code> <code>Security Policy Design</code> <code>System Hardening</code> <code>Firewalld</code>
 </div>
 
-### 🐧 Systems, Cloud & Dev Tools
+### 🎯 Penetration Testing & Recon
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20(Debian)-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20(RHEL)-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitHub-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/GitLab-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fedora-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/SELinux-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/LVM-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/systemd-0A4D68?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firewalld-0A4D68?style=flat-square" />
+  <code>Burp Suite</code> <code>Metasploit</code> <code>Nessus</code> <code>Acunetix</code> <code>Nmap</code> <code>Amass</code> <code>Shodan</code> <code>Recon-ng</code> <code>theHarvester</code> <code>OSINT Framework</code> <code>Web App Testing</code> <code>Vulnerability Scanning</code> <code>Vulnerability Assessment</code> <code>Reconnaissance</code> <code>Exploitation</code> <code>Post-Exploitation</code> <code>Ethical Hacking (CEH track)</code>
+</div>
+
+### 🐧 Operating Systems & System Administration
+<div align="left">
+  <code>Linux (RHEL)</code> <code>Linux (Fedora)</code> <code>Linux (Debian)</code> <code>Kali Linux</code> <code>Parrot OS</code> <code>Windows</code> <code>Windows Server</code> <code>SELinux</code> <code>LVM</code> <code>systemd</code> <code>File Systems &amp; ACLs</code> <code>User Management</code> <code>Container Basics</code> <code>Shell Scripting (RHCSA path)</code>
+</div>
+
+### ☁️ Cloud, Virtualization & Dev Tools
+<div align="left">
+  <code>AWS</code> <code>Cloud &amp; Virtualization</code> <code>Docker</code> <code>Git</code> <code>GitHub</code> <code>GitLab</code>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/issues-closed/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0A4D68&label=Issues%20Resolved" alt="Issues Resolved" />
-  <img src="https://img.shields.io/github/stars/Amr-Khaled-Ahmed?color=0A4D68&label=Recognition" alt="Recognition" />
-  <img src="https://img.shields.io/github/commit-activity/m/Amr-Khaled-Ahmed/CyberSec-Toolkit?color=0A4D68&label=Development%20Activity" alt="Development Activity" />
 </div>
 
 ---
