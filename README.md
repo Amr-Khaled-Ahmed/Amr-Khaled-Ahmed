@@ -121,16 +121,6 @@ flowchart LR
 
 ---
 
-## `~ $ cat currently.txt`
-
-```text
-[learning ]  malware analysis fundamentals, reverse engineering
-[studying ]  Red Hat System Administration (RHCSA path)
-[studying ]  AWS cloud security
-[practising] SOC 101 workflows, CTF challenges
-[building ]  offline-first security tooling in Python
-```
-
 ---
 
 ## `~ $ ls stack/`
